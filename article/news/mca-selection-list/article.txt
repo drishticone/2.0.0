@@ -1,0 +1,280 @@
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<td colspan="2" style="width:638px">
+			<p><u><strong>TCS</strong></u></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p><strong>S.No.</strong></p>
+			</td>
+			<td style="width:553px">
+			<p><strong>Candidate Name</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>1.</p>
+			</td>
+			<td style="width:553px">
+			<p>Gaurav Srivastav</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>2</p>
+			</td>
+			<td style="width:553px">
+			<p>Nidhi Sharma</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>3.</p>
+			</td>
+			<td style="width:553px">
+			<p>Priya Agarwal</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>4.</p>
+			</td>
+			<td style="width:553px">
+			<p>Shruti Srivastav</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>5.</p>
+			</td>
+			<td style="width:553px">
+			<p>Tanu Rana</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>6.</p>
+			</td>
+			<td style="width:553px">
+			<p>Vivek Jain</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<td colspan="2" style="width:638px">
+			<p><u><strong>Secon India Pvt. Ltd.</strong></u></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p><strong>S.No.</strong></p>
+			</td>
+			<td style="width:553px">
+			<p><strong>Candidate Name</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>1.</p>
+			</td>
+			<td style="width:553px">
+			<p>Anurag Agarwal</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>2</p>
+			</td>
+			<td style="width:553px">
+			<p>Avantika Verma</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>3.</p>
+			</td>
+			<td style="width:553px">
+			<p>Kajal Tiwari</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>4.</p>
+			</td>
+			<td style="width:553px">
+			<p>Mani Sharma</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>5.</p>
+			</td>
+			<td style="width:553px">
+			<p>Nidhi Sharma</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>6.</p>
+			</td>
+			<td style="width:553px">
+			<p>Prince Yadav</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<td colspan="2" style="width:638px">
+			<p><u><strong>I.T. Cons E-Solution Pvt. Ltd.</strong></u></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p><strong>S.No.</strong></p>
+			</td>
+			<td style="width:553px">
+			<p><strong>Candidate Name</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>1.</p>
+			</td>
+			<td style="width:553px">
+			<p>Ankur Kumar Rowniyar</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>2</p>
+			</td>
+			<td style="width:553px">
+			<p>Mahak Agarwal</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>3.</p>
+			</td>
+			<td style="width:553px">
+			<p>Saurabh Pandey</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>4.</p>
+			</td>
+			<td style="width:553px">
+			<p>Shubham Kumar</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<td colspan="2" style="width:638px">
+			<p><u><strong>Wipro Technologies</strong></u></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p><strong>S.No.</strong></p>
+			</td>
+			<td style="width:553px">
+			<p><strong>Candidate Name</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>1.</p>
+			</td>
+			<td style="width:553px">
+			<p>Akhil Varshney</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>2</p>
+			</td>
+			<td style="width:553px">
+			<p>Manish Tiwari</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>3.</p>
+			</td>
+			<td style="width:553px">
+			<p>Prabhat Kumar</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>4.</p>
+			</td>
+			<td style="width:553px">
+			<p>Prashant Kaushal</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<td colspan="2" style="width:638px">
+			<p><u><strong>Newzen Apps</strong></u></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p><strong>S.No.</strong></p>
+			</td>
+			<td style="width:553px">
+			<p><strong>Candidate Name</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>1.</p>
+			</td>
+			<td style="width:553px">
+			<p>Manish Tiwari</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>2</p>
+			</td>
+			<td style="width:553px">
+			<p>Rishabh Yadav</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:85px">
+			<p>3.</p>
+			</td>
+			<td style="width:553px">
+			<p>Vivek Garg</p>
+			</td>
+		</tr>
+	</tbody>
+</table>

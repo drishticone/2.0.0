@@ -1,0 +1,37 @@
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px" summary="Salary: 4.2 LPA">
+	<caption>List of students selected in LAVA</caption>
+	<tbody>
+		<tr>
+			<td><strong>S.No.</strong></td>
+			<td><strong>Candidate Name</strong></td>
+			<td><strong>Branch</strong></td>
+		</tr>
+		<tr>
+			<td>1.</td>
+			<td>Avantika Saini</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>2.</td>
+			<td>Shubhankar Mittal</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Shweta Vishwakarma</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Gopesh Kumar Singh</td>
+			<td>Electrical Engineering</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Shivam Agarwal</td>
+			<td>Electrical Engineering</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>

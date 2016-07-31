@@ -1,0 +1,22 @@
+
+
+<p>SIRI is a part of Apple Inc.&rsquo;s ios which works as an intelligent personal assistant and knowledge navigator. In simpler words, a software that answers to any question of yours, by adapting&nbsp; to the user&rsquo;s individual searches and offers results that are individualized. The feature uses a natural language user interface to answer questions and make recommendations.</p>
+
+<p>Beta version of Siri offers conversational interaction with many applications, including reminders, messaging, e-mail, web browser, notes, maps, etc.It uses speech recognition technology. A key feature of the R&amp;D behind Siri, is its artificial intelligence programming aimed to allow it to adapt to users individual language usage. It approximately supports ten languages including Mandarian and Japanese.</p>
+
+<p>Siri gets its name from Sigrid meaning beauty and victory. It was co-founded by SRI&rsquo;s Dag Kittlaus, Adam Cheyer and Tom Gruber. Its primary technical areas focus on a conversational interface, personal context awareness and service delegation. It also contains numerous pre-programmed responses to conversational and amusing questions. These are designed to provide an entertainment factor and give it human like qualities.</p>
+
+<p>Ask Siri,&nbsp;&nbsp; Q: &ldquo;Why did Apple make you?&rdquo;</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A: To make your life easier and more fun</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Q: &ldquo;Are you a human siri?&rdquo;</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;A: Close enough, I&rsquo;d say.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Q: &ldquo;Do you believe in God?&rdquo;</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A: Humans have spiritualism. I have siliconism.</p>
+
+<p>And these are the replies from it, filled with enormous amount of wit. Undoubtedly, Siri makes its mark.</p>
+

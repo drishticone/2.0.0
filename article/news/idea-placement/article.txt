@@ -1,0 +1,34 @@
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<td><strong>S. No.</td>
+			<td><strong>Candidate</td>
+			<td><strong>Branch</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>Abhishek Dixit</td>
+			<td>&nbsp;Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Pravin Kumar</td>
+			<td>&nbsp;Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>Saumya Krishnatrey</td>
+			<td>&nbsp;Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>Shalini Rai</td>
+			<td>&nbsp;Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>Umang Bhatia</td>
+			<td>&nbsp;Electronics Engineering</td>
+		</tr>
+	</tbody>
+</table>

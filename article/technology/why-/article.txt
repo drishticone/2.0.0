@@ -1,0 +1,82 @@
+Consider a day in your life,&nbsp;<em>&nbsp;What is the best road to take? ,&nbsp;Would there be any bad weather? ,&nbsp;What is the best way to invest money? ,&nbsp;Which product should I buy?</em> To answer these questions, firstly, we need to understand&nbsp;Big Data. Lets dig deeper into this,
+
+What is Big Data?
+
+Now a days Data flows in our daily life from phones and credit cards ; televisions and computers; From sensor-equipped buildings, trains, buses, planes, bridges and factories. This shows that we are living in a digital age where we are collecting and converting huge data into digital form&nbsp;<br />
+Giving some&nbsp;perspectives:
+
+<ul>
+	<li>
+	90% of the data in the world today was created within the past two years.
+	</li>
+	<li>
+	Web does millions of activities per second and so much server logs are created.
+	</li>
+	<li>
+	Social Networking Sites e.g Facebook,&nbsp;has over 1 billion active users per month and collects around 80 billion photos from them.
+	</li>
+	<li>
+	Walmart handles more than 1 million customer transactions every hour&nbsp;which are imported into databases estimated to contain more than 2.5 petabytes (2560 terabytes) of data the equivalent of 167 times the information contained in all the books in the US Library of Congress.
+	</li>
+</ul>
+
+Phew ! So, clearly there is a lot of data populating overtime.&nbsp;
+
+<em><strong>So where does the problem lie?</strong></em>
+
+<ul>
+	<li>
+	&nbsp;<strong>Storing Data :</strong> It takes 1000 computers to store 1 peta byte.(assuming on an average a single computer stores 1&nbsp;tera&nbsp;byte of data)&nbsp;
+	</li>
+	<li>
+	&nbsp;<strong>Moving Data:</strong> It takes 2 hours to copy 1&nbsp;TB and 83 days to copy 1 PB.(assuming 10 GB network)&nbsp;
+	</li>
+	<li>
+	&nbsp;<strong>Searching: </strong>Assuming each record is 1 KB, and one machine can process 1000 records per second, it needs 277 CPU days to process 1 TB and 785 CPU years to process 1 PB.&nbsp;
+	</li>
+</ul>
+
+<em><strong>How Data Science helps us resolve them?</strong></em>
+
+<ul>
+	<li>
+	<strong>Storage of data:</strong> Historically, we used databases where scalability was a challenge, Now, NoSQL databases such as CASSANDRA, HADOOP(for structured data), and Distributed file system e.g HDFS/Hadoop Distributed File System(for unstructured data) are used.
+	</li>
+	<li>
+	<strong>Movement of data:</strong> With the help of distributed computing, there&#39;s no need to transfer huge amount of data, instead we can divide it into small chunks that are distributed over networks of computers in a geographical area.
+	</li>
+	<li>
+	<strong>Making Sense Of Data :</strong> From performing basic analytics (i.e. min, max, average, histograms, distribution) to complex data visualization, it is now possible to answer some of the most fascinating questions.&nbsp;
+	</li>
+</ul>
+
+<strong>Usecases Of Big Data&nbsp;</strong>
+
+<ul>
+	<li>
+	Targeted Marketing Making personalized deals and recommendation based on the types of pages you have liked on Facebook. Now , who would have thought that?&nbsp;
+	</li>
+	<li>
+	Travel By analysing traffic data it is now possible to tackle traffic and avoid congestion on road
+	</li>
+	<li>
+	&nbsp;FIFA World Cup 2014 Systems Applications Products (SAP) a European firm partnered with the German team in FIFA World Cup 2014&nbsp;
+
+	<ul>
+		<li>
+		SAP used Big Data, to help the German coaching staff make smart decisions on tactics player fitness, scouting , preparation as well as game management .&nbsp;
+		</li>
+		<li>
+		SAP has introduced a new concept called SAP &quot;Match Insights&quot; which analyses vast amount of data about members of the German team and their opponents, based on their on-field performance. This was made possible by the company&#39;s in-house HANA(High-PerformanceAnalyticAppliance) in- memory computing platform.&nbsp;
+		</li>
+		<li>
+		With Match Insights, game data can be converted into simulations and graphs that can be viewed on tablet or smartphone , allowing trainers , coaches , and players to identify and assess key situations in each match. These insights can then be used during pre-match preparations to improve player and team performance.&nbsp;
+		</li>
+	</ul>
+	</li>
+</ul>
+
+That&#39;s why Big Data is a big deal !!&nbsp;<br />
+&nbsp;
+
+<p><code><em>Article printed in Sept 2014 edition of Drishticone. By #Prashant Kumar Sharma &amp; #Shwet kamal Mishra</em></code></p>

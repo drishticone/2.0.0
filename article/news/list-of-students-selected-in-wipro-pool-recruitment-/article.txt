@@ -1,0 +1,340 @@
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<td>S.N.</td>
+			<td><strong>Candidate Name</strong></td>
+			<td><strong>Branch</strong></td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>AAKASH SHINGHAL</td>
+			<td>COMPUTER SCIENCE &amp; ENGINNERING</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Abhishek Singh</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>AMITA Shukla</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>ANKUM SINGHAL</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>ANUPAM CHATTERJEE</td>
+			<td>Computer Science and Engineering</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>Chandrapurnima Bhatnagar</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>Dhruvam Gupta</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>Ekta Jaiswal</td>
+			<td>Computer science and engineering</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>GUPTESHWAR KESHRI</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>Manish Gupta</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>Manish Yadav</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>MOHD SAALIM</td>
+			<td>Computer Science and Engineering</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>Nidhi Singh</td>
+			<td>Computer Science Engineering</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>Nirupam Singh</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>Rashmi Kushwaha</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>Rohan Agarwal</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>Roopak Nijhara</td>
+			<td>Computer Science and Engineering</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>Salil Raj</td>
+			<td>Computer Science and Engineering</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>Shivam Anand</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>SHWET MISHRA</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>SUMIT VERMA</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>UJJWAL PANDEY</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>Varsha Prakash</td>
+			<td>Computer Science and Engineering</td>
+		</tr>
+		<tr>
+			<td>24</td>
+			<td>VISHWAJEET SRIVASTAVA</td>
+			<td>Computer Science &amp; Engineering</td>
+		</tr>
+		<tr>
+			<td>25</td>
+			<td>Abhishek Sahu</td>
+			<td>Electrical Engineering</td>
+		</tr>
+		<tr>
+			<td>26</td>
+			<td>AKASH GUPTA</td>
+			<td>Electrical Engineering</td>
+		</tr>
+		<tr>
+			<td>27</td>
+			<td>GOPESH KUMAR</td>
+			<td>Electrical Engineering</td>
+		</tr>
+		<tr>
+			<td>28</td>
+			<td>NEEL MISHRA</td>
+			<td>Electrical Engineering</td>
+		</tr>
+		<tr>
+			<td>29</td>
+			<td>Shilpi Sharma</td>
+			<td>Electrical Engineering</td>
+		</tr>
+		<tr>
+			<td>30</td>
+			<td>SURABHI SHARMA</td>
+			<td>Electrical Engineering</td>
+		</tr>
+		<tr>
+			<td>31</td>
+			<td>VIPUL GAUTAM</td>
+			<td>Electrical Engineering</td>
+		</tr>
+		<tr>
+			<td>32</td>
+			<td>ABHILASH SHUKLA</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>33</td>
+			<td>ARPIT KUMAR</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>34</td>
+			<td>Avantika saini</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>35</td>
+			<td>HARSHITA VERMA</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>36</td>
+			<td>PRASHANT SHARMA</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>37</td>
+			<td>PRAVIN KUMAR</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>38</td>
+			<td>SAUMYA KRISHNATREY</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>39</td>
+			<td>shubham kumartiwari</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>40</td>
+			<td>SHUBHANKAR MITTAL</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>41</td>
+			<td>Shweta Vishwakarma</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>42</td>
+			<td>Utkarsh Varshney</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>43</td>
+			<td>VAIBHAV GUPTA</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>44</td>
+			<td>Vaishali Singh</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>45</td>
+			<td>VARNIT KATIYAR</td>
+			<td>Electronics Engineering</td>
+		</tr>
+		<tr>
+			<td>46</td>
+			<td>ABHISHEK TIWARI</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>47</td>
+			<td>ADARSH SRIVASTAVA</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>48</td>
+			<td>Adarsh Srivastava</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>49</td>
+			<td>AKSHAY AGRAWAL</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>50</td>
+			<td>AKSHAY KUMAR</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>51</td>
+			<td>Amanuddin Islam</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>52</td>
+			<td>ANKUSH SRIVASTAVA</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>53</td>
+			<td>AYUSH GOYAL</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>54</td>
+			<td>KHABBAB NAZAR</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>55</td>
+			<td>NEERAJ TIWARI</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>56</td>
+			<td>Nihal Gangwar</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>57</td>
+			<td>Prashant Singh</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>58</td>
+			<td>Prashant Srivastava</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>59</td>
+			<td>PRATEEK SINGH</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>60</td>
+			<td>priya singh</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>61</td>
+			<td>SARVESHVAR SINGH</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>62</td>
+			<td>shikha srivastava</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>63</td>
+			<td>Utsav Srivastava</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>64</td>
+			<td>VAISHALI VERMA</td>
+			<td>Information Technology</td>
+		</tr>
+		<tr>
+			<td>65</td>
+			<td>Vishesh Bajpai</td>
+			<td>Information Technology</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>CONGRATULATIONS TO ALL THE PLACED STUDENTS !!!</p>
+
+<p>Source: Training and Placement Cell, KNIT Sultanpur</p>
