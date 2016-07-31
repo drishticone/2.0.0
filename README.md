@@ -1,7 +1,7 @@
 Drishticone:
 ![alt text][logo]
 
-[logo]: https://github.com/drishticone/2.0.0/tree/master/image/logo.gif "drishitcone"
+[logo]: https://raw.githubusercontent.com/drishticone/2.0.0/master/image/logo1.gif "drishitcone"
 
 # Drishticone 2.0.0
 
