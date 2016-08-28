@@ -5,12 +5,14 @@ include '../header.php';
  include('../dbConnection.php');
 ?>
 
-<!doctype html>
-<html>
-<head>
+
+
+
+
+<body>
 <title>Drishticone || News</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
- 
+
 
 
 <style>
@@ -36,9 +38,6 @@ $(function() {
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=900138460052258";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-</head>
-
-<body>
 <div style="margin-left:30px; margin-right:30px;">
 <div class="row">
 <div class="col-md-3">
@@ -52,7 +51,7 @@ $(function() {
   <div class="col-md-5">
   <img src="lit/image/lit.png" width="90" height="108"></div></br></br>
 <center><p class="title2"> Literary Council</p></center>
- 
+
 </div></div></a>
 <a href="pfac">
 <div class="panel panel-default hoverable">
@@ -60,7 +59,7 @@ $(function() {
   <div class="col-md-5">
   <img src="pfac/image/pfac.png" width="90" height="108"></div></br></br>
 <center><p class="title2" aling="right">PFAC</p></center>
- 
+
 </div></div></a>
 <a href="cult">
 <div class="panel panel-default hoverable">
@@ -68,21 +67,21 @@ $(function() {
   <div class="col-md-5">
   <img src="cult/image/cult.jpg" width="90" height="108"></div></br></br>
 <center><p class="title2">Cultural Council</p></center>
- 
+
 </div></div></a>
 <a href="sports"><div class="panel panel-default hoverable">
   <div class="panel-body">
   <div class="col-md-5">
   <img src="sports/image/sports.jpg" width="90" height="108"></div></br></br>
 <center><p class="title2">Sports Council</p></center>
- 
+
 </div></div></a>
 <a href="hobbyclub"><div class="panel panel-default hoverable">
   <div class="panel-body">
   <div class="col-md-5">
   <img src="hobbyclub/image/hobbyclub.jpg" width="90" height="108"></div></br></br>
 <center><p class="title2">Hobby Council</p></center>
- 
+
 </div></div></a>
 
 
@@ -95,8 +94,8 @@ $(function() {
  <hr>
 <div class="row">
 
-<?php 
-$q=mysqli_query($con ,"SELECT * FROM article  where flag='1' and type ='News' ORDER BY time DESC ") or die ("Error");
+<?php
+$q=mysqli_query($con ,"SELECT * FROM article  where flag='1' ORDER BY time DESC ") or die ("Error");
 while($row=mysqli_fetch_array($q))
 {
 $aid=$row['aid'];
@@ -111,13 +110,17 @@ echo '
 <a href="'.$article.'"><div class="col-md-12">
 <div class="panel panel-default hoverable">
   <div class="panel-body">
-  <div style="height:260px; overflow:hidden; margin:0px; padding:0px;"><img height="260" width="100%" src="'.$photo.'" /></div>
+  <div class="row">
+  <div class="col-md-6  col-sm-12">
+  <div style="height:260px; overflow:hidden; margin:0px; padding:0px;"><img height="260" width="100%"  src="'.$photo.'" img-responsive /></div>
+  </div>
+  <div class="col-md-6  col-sm-12">
  <div  id="fitin" >'.$title.'</div>
 <hr />
 
 <span style="float:left;color:#1d9d74;">'.$type.'</span>
 <span style="float:right"><a style="float:right" target="_blank" href="https://facebook.com/'.$writer_id.'"><span style="color:#1d9d74;">By&nbsp;:&nbsp;</span>'.$writer_name.'</a></span>
-</div></div>
+</div></div></div></div>
 
 </div></a>
 <!--panel end-->';}
@@ -150,35 +153,35 @@ echo '
   <div class="col-md-5">
   <img src="iste/image/iste.png"></div></br></br>
 <center><p class="title2"> ISTE</p></center>
- 
+
 </div></div></a><a href="iei">
 <div class="panel panel-default hoverable">
   <div class="panel-body">
   <div class="col-md-5">
   <img src="iei/image/iei.png" a="left"></div></br></br>
 <center><p class="title2"> IEI</p></center>
- 
+
 </div></div></a><a href="csi">
 <div class="panel panel-default hoverable">
   <div class="panel-body">
   <div class="col-md-5">
   <img src="csi/image/csi.jpg"></div></br></br>
 <center><p class="title2"> CSI</p></center>
- 
+
 </div></div></a><a href="electrum">
 <div class="panel panel-default hoverable">
   <div class="panel-body">
   <div class="col-md-5">
   <img src="electrum/image/ELECTRUM.jpg" width="130" height="110"></div></br></br>
 <center><p class="title2">Electrum</p></center>
- 
+
 </div></div></a><a href="mef">
 <div class="panel panel-default hoverable">
   <div class="panel-body">
   <div class="col-md-5">
   <img src="mef/image/mef.jpg" width="130" height="130"></div></br></br>
 <center><p class="title2"> MEF</p></center>
- 
+
 </div></div></a>
 
 
@@ -196,8 +199,9 @@ echo '
 
 
 </div></div><!--container closed-->
+
+ </body>
+
 <?php
 include '../footer.php';
 ?>
- </body>
-</html>
