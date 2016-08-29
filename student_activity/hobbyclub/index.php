@@ -114,28 +114,28 @@ If a man has a talent and learns somehow to use the whole of it, he has glorious
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../hobbyclub/image/final yr/pavan.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../hobbyclub/image/pavan.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Pavan<br>Secretary</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../hobbyclub/image/final yr/ayush seth.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../hobbyclub/image/ayush seth.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Ayush Seth<br>Chief Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../hobbyclub/image/final yr/avinash singh.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../hobbyclub/image/avinash singh.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Avinash Singh<br>Chief executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../hobbyclub/image/final yr/kajal katiyar.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../hobbyclub/image/kajal katiyar.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Kajal Katiyar<br>Chief executive</span></p>
@@ -147,21 +147,21 @@ If a man has a talent and learns somehow to use the whole of it, he has glorious
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../hobbyclub/image/final yr/vishakha tomar.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../hobbyclub/image/vishakha tomar.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><br />
 <span class="green">Vishakha Tomar<br>Chief executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../hobbyclub/image/final yr/ratnesh kesari.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../hobbyclub/image/ratnesh kesari.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><br />
 <span class="green">Ratnesh Keshari<br>Chief executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../hobbyclub/image/final yr/pavan kumar giri.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../hobbyclub/image/pavan kumar giri.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><br />
 <span class="green">Pavan Kumar Giri<br>Chief executive</span></p>
@@ -217,28 +217,28 @@ If a man has a talent and learns somehow to use the whole of it, he has glorious
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../hobbyclub/image/3rd yr/ravi.png"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../hobbyclub/image/ravi.png"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Ravi Narayan Mishra<br>Joint Secretary</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../hobbyclub/image/3rd yr/manoj jaiswal.png"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../hobbyclub/image/manoj jaiswal.png"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Manoj Jaiswal<br>Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../hobbyclub/image/3rd yr/pankaj kesharvani.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../hobbyclub/image/pankaj kesharvani.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Pankaj Kesharvani<br>Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../hobbyclub/image/3rd yr/raghav singh.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../hobbyclub/image/raghav singh.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Raghav Singh<br>Senior Executive</span></p>
@@ -250,21 +250,21 @@ If a man has a talent and learns somehow to use the whole of it, he has glorious
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../hobbyclub/image/3rd yr/shashank singhal.png"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../hobbyclub/image/shashank singhal.png"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Shashank Singhal<br>Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../hobbyclub/image/3rd yr/tejasvi kumar.png"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../hobbyclub/image/tejasvi kumar.png"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Tejasvi Kumar<br>Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../hobbyclub/image/3rd yr/yash gupta.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../hobbyclub/image/yash gupta.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Yash Gupta<br>Senior Executive</span></p>
