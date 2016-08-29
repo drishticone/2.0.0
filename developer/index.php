@@ -4,9 +4,10 @@ include '../header.php';
  include('../dbConnection.php');
 ?>
 
-<!doctype html>
-<html>
-<head>
+
+
+<body>
+
 <title>Drishticone || Drishticone web team</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
@@ -46,9 +47,7 @@ $(function() {
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=900138460052258";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-</head>
 
-<body>
 <div style="margin-left:30px; margin-right:30px;">
 <div class="row">
 <div class="col-md-12">
@@ -57,8 +56,8 @@ $(function() {
  <center><p class="title2"><span class="glyphicon glyphicon-king" aria-hidden="true"></span>&nbsp;&nbsp;Web Team</p></center>
 <hr>
  <center><p class="title2">Final Year Team</p></center>
- 
- 
+
+
 <div class="col-md-3 mid">
 <img src="http://drishticone.org/developer/photo/vipin.jpg"  height="140" width="140" alt="Vipin Srivastav" class="img-circle">
 <br>
@@ -196,8 +195,8 @@ $(function() {
 
 </div></div></div></div></div>
 
+
+ </body>
 <?php
 include '../footer.php';
 ?>
- </body>
-</html>

@@ -4,7 +4,7 @@ include('../header.php');
 ?>
 
 
-	<?php 
+	<?php
 	            include('../dbConnection.php');
 				if(isset($_SESSION['email']))
 				{
@@ -13,23 +13,20 @@ include('../header.php');
 				$count=mysqli_num_rows($q);
 				if($count!=1)
 				{
-			
+
 			header("location:../error.php");
 				}
 				}
 				?>
-				
-<!doctype html>
-<html>
-<head>
+
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Drishticone || Admin Panel</title>
 <?php if(@$_GET['w'])
 {echo'<script>alert("'.@$_GET['w'].'");</script>';}
 ?>
-</head>
-<body>
+
 
 <div class="row">
 <div class="col-md-6 col-md-offset-3">
@@ -50,9 +47,9 @@ include('../header.php');
     <select id="power" name="power" placeholder="Login For" class="form-control input-md" >
    <option value="0">Select&nbsp;Login&nbsp;Purpose</option>
  <!-- <option value="1">Managment</option> -->
-  <option value="2">Review</option> 
-  <option value="3">Create&nbsp;Event</option> 
-  <option value="4">Notice&nbsp;Upload</option> 
+  <option value="2">Review</option>
+  <option value="3">Create&nbsp;Event</option>
+  <option value="4">Notice&nbsp;Upload</option>
  <!-- <option value="5">VOK&nbsp;Answer</option> -->
  <!--  <option value="6">Gallery&nbsp;Upload</option> --> </select>
   </div>
@@ -69,8 +66,8 @@ include('../header.php');
 
 
 
+
+</body>
 <?php
 include('../footer.php');
 ?>
-</body>
-</html>

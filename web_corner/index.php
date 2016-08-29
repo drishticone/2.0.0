@@ -6,15 +6,14 @@ include '../header.php';
 ?>
 
 
-<!doctype html>
-<html>
-<head>
+
+
+
+<body>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Drishticone || Web corner</title>
 
-</head>
-<body>
 <div style="margin-left:30px; margin-right:30px;">
 <div class="row">
 <div class="col-md-3">
@@ -46,8 +45,8 @@ echo '<form method="post" action="update.php">
     <label for="url">URL :</label>
     <input type="text" class="form-control" name="url" id="url" placeholder="Enter url of page" required>
   </div>
-  
-  
+
+
 <center><button type="submit" class="btn btn-primary sub" style="background:#1d9d74; border-radius:0px;">Submit&nbsp;&nbsp;<span class="glyphicon glyphicon-send" aria-hidden="true"></span></button></center>
 </form>
 ';
@@ -59,7 +58,7 @@ echo '<form method="post" action="update.php">
 
 </div><!--col-md-3 closed-->
 <div class="col-md-9">
-<?php 
+<?php
 $q=mysqli_query($con ,"SELECT * FROM web  where flag='1' ORDER BY time DESC ") or die ("Error");
 while($row=mysqli_fetch_array($q))
 {
@@ -95,7 +94,7 @@ echo '
 </div><!--row and container closed-->
 
 </body>
-</html>
+
 <?php
 include '../footer.php';
 ?>

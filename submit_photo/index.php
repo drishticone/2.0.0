@@ -3,14 +3,13 @@ include '../fblogin.php';
 include '../header.php';
 include '../dbConnection.php';
 ?>
-<!doctype html>
-<html>
-<head>
+
+
+
+<body>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Drishticone || Submit photo</title>
- </head>
-<body>
 <div style="margin-left:30px; margin-right:30px;">
 <div class="row">
 <div class="col-md-8 col-md-offset-2">
@@ -18,7 +17,7 @@ include '../dbConnection.php';
  <div class="panel-body">
  <center><p class="title2"><span class="glyphicon glyphicon-floppy-open" aria-hidden="true"></span>&nbsp;&nbsp;Submit Photo</p></center>
  <hr>
- 
+
  <form method="post" action="upload.php">
 <!--select category start-->
 <div class="form-group">
@@ -27,8 +26,8 @@ include '../dbConnection.php';
    <option value="#">Select purpose of upload</option>
   <option value="1">Click of the edition</option>
    <option value="2">For article/news</option>
-   </select>      
-  </div>  
+   </select>
+  </div>
 <!--select categories end-->
 
  <div class="form-group">
@@ -43,16 +42,16 @@ include '../dbConnection.php';
 
 </div>
   </div><!--panel end-->
-  
-  
-  
-  
-  
+
+
+
+
+
 </div></div>
+
+</body>
+
 </div>
 <?php
 include '../footer.php';
 ?>
-</body>
-
-</html>

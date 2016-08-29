@@ -6,9 +6,11 @@ include '../header.php';
 
 ?>
 
-<!doctype html>
-<html>
-<head>
+
+
+
+<body>
+
 <title>Drishticone || Events </title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
   <link  rel="stylesheet" href="http://drishticone.org/css/jquery.mCustomScrollbar.css">
@@ -31,10 +33,6 @@ $(function() {
     }
 });
 </script>
-
-</head>
-
-<body>
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -76,7 +74,7 @@ echo '
   if($desc!=NULL)
   {
   echo   '<p><span style="color:#1d9d74"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span>&nbsp;&nbsp;Description&nbsp;:&nbsp;</span>'.$desc.'</p>';
-  
+
   }
   echo '<hr>';
   }
@@ -84,11 +82,11 @@ echo '
   if($temp==0)
   {
   echo '<p style="font-size:15px;color:red"><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>&nbsp;&nbsp;Oopps !! No upcoming event to display.</p>';}
-  
-  ?></div></div> 
+
+  ?></div></div>
   <!-------------------------------------------suggestion for article---->
-  
-<?php 
+
+<?php
 $q=mysqli_query($con ,"SELECT * FROM article  where flag='1'  AND type !='News' ORDER BY rand() LIMIT 1 ") or die ("Error");
 while($row=mysqli_fetch_array($q))
 {
@@ -117,12 +115,12 @@ echo '
 </a>
 <!--panel end-->';}
 ?>
-  
+
  <!--------------------------------suggestion end----->
-   
+
   </div>
-  
-  
+
+
   <div class="col-md-7">
   <div class="panel panel-default">
   <div class="panel-body">
@@ -150,21 +148,21 @@ echo '
   if($desc!=NULL)
   {
   echo   '<p><span style="color:#1d9d74"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span>&nbsp;&nbsp;Description&nbsp;:&nbsp;</span>'.$desc.'</p>';
-  
+
   }
   echo '<hr>';
   }
   }
-  
+
   ?>
   </div></div></div></div>
-  
+
   </div>
   </div>
-  
-  
-  
-  
+
+
+
+
   <div class="col-md-3">
 
 <div class="panel panel-default">
@@ -176,7 +174,7 @@ echo '
 
   <!-------------------------------------------suggestion for article---->
 
-<?php 
+<?php
 $q=mysqli_query($con ,"SELECT * FROM article  where flag='1'  AND type !='News' ORDER BY rand() LIMIT 1 ") or die ("Error");
 while($row=mysqli_fetch_array($q))
 {
@@ -205,7 +203,7 @@ echo '
 </a></div></div>
 <!--panel end-->';}
 ?>
-  
+
   <!--------------------------------suggestion end----->
 </div>
 
@@ -220,8 +218,9 @@ echo '
 
 
 </div></div><!--container closed-->
+
+ </body>
+
 <?php
 include '../footer.php';
 ?>
- </body>
-</html>

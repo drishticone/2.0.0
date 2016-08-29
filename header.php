@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="http://drishticone.org/css/main.css"/>
 <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 <script type="text/javascript" src="http://drishticone.org/js/jquery-1.11.3.min.js"></script>
-<script src="http://drishticone.org/js/bootstrap.min.js"  type="text/javascript"></script> 
+<script src="http://drishticone.org/js/bootstrap.min.js"  type="text/javascript"></script>
 <script>
 $(function () {
     $(document).on( 'scroll', function(){
@@ -61,7 +61,7 @@ echo '<p style="margin:20px; margin-left:60px;">'.date('l jS \of F Y').'</p>';?>
     <div class="col-md-6">
 
     </div>
-    
+
     </div></div>
   <!--nav bar start-->
   <nav class="navbar navbar-default">
@@ -74,7 +74,7 @@ echo '<p style="margin:20px; margin-left:60px;">'.date('l jS \of F Y').'</p>';?>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-    
+
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -90,17 +90,17 @@ echo '<p style="margin:20px; margin-left:60px;">'.date('l jS \of F Y').'</p>';?>
         <li  <?php if($nav==8) echo 'class="active"'; ?> ><a href="http://drishticone.org/aboutus"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>&nbsp;&nbsp;About&nbsp;Us</a>
 		<!-- <li  <?php if($nav==9) echo 'class="active"'; ?> ><a href="http://drishticone.org/dicon-workshop"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;&nbsp;Workshop&nbsp</a>-->
         </li>
-       
+
       </ul>
 	  <ul class="nav navbar-nav navbar-right">
-      
-   <?php 
+
+   <?php
    if(!isset($_SESSION['id']))
-   {     
+   {
        echo '
 	   <li><a href="'.$loginUrl.'"><span class="glyphicon glyphicon-log-in" aria-hidden="true"></span>&nbsp;&nbsp;Log&nbsp;in&nbsp;with&nbsp;facebook</a>
        ';
-	   } 
+	   }
 	   else{
 	   $name=$_SESSION['name'];
 	   $id=$_SESSION['id'];
@@ -109,19 +109,17 @@ echo '<p style="margin:20px; margin-left:60px;">'.date('l jS \of F Y').'</p>';?>
           <ul class="dropdown-menu">
          <li><a href="http://drishticone.org/logout.php">&nbsp;&nbsp;<span class="glyphicon glyphicon-log-out" aria-hidden="true"></span>&nbsp;&nbsp;Logout</a></li>
         </ul>
-     
+
         </li></ul>
 	   ';
 	   }
 	   ?>
-	    
-     
-      
+
+
+
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
-  
+
   <!--nav bar closed-->
 </header>
-</body>
-</html>

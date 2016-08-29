@@ -5,12 +5,16 @@ include '../header.php';
  include('../dbConnection.php');
 ?>
 
-<!doctype html>
-<html>
-<head>
+
+
+
+
+
+
+<body>
 <title>Drishticone || About Us</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
- 
+
 
 
 <style>
@@ -52,9 +56,7 @@ $(function() {
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=900138460052258";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-</head>
 
-<body>
 <div style="margin-left:30px; margin-right:30px;">
 <div class="row">
 <div class="col-md-12">
@@ -121,7 +123,7 @@ DrishtICONe is the official newsletter of <a href="http://knit.ac.in" target="_b
 <!--final year start-->
 <div class="row">
  <center><p class="title2">Final Year Team Members</p></center>
- 
+
 <div class="col-md-3 mid">
 <img src="http://drishticone.org/image/aboutus/anurag.jpg"  height="140" width="140" alt="Anurag Pandey" class="img-circle">
 <br>
@@ -289,14 +291,14 @@ DrishtICONe is the official newsletter of <a href="http://knit.ac.in" target="_b
 <p>Amit Jaiswal<br />
 <span class="green">Management Team</span></p>
 </div>
- 
+
 <div class="col-md-3 mid">
 <img src="http://drishticone.org/image/aboutus/sush3.jpg"  height="140" width="140" alt="SUSHMITA SINGH" class="img-circle">
 <br>
 <p>Sushmita Singh<br />
 <span class="green">Management Team</span></p>
 </div>
- 
+
 
 
 
@@ -462,7 +464,7 @@ DrishtICONe is the official newsletter of <a href="http://knit.ac.in" target="_b
 <div class="row">
  <center><p class="title2">Second Year Team Members</p></center>
 
- 
+
 <div class="col-md-3 mid">
 <img src="http://drishticone.org/image/aboutus/ravi2.jpg"  height="140" width="140" alt="RAVI NARAYAN MISHRA" class="img-circle">
 <br>
@@ -1014,4 +1016,4 @@ DrishtICONe is the official newsletter of <a href="http://knit.ac.in" target="_b
 include '../footer.php';
 ?>
  </body>
-</html>
+

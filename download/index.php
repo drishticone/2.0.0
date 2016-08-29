@@ -5,12 +5,14 @@ include '../header.php';
  include('../dbConnection.php');
 ?>
 
-<!doctype html>
-<html>
-<head>
+
+
+
+
+<body >
 <title>Drishticone || Print Edition</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
- 
+
 
 
 <style>
@@ -38,9 +40,7 @@ $(function() {
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=900138460052258";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-</head>
 
-<body >
 <div style="margin-left:30px; margin-right:30px;">
 <div class="row" >
 <div class="col-md-12">
@@ -241,8 +241,9 @@ $(function() {
 </div>
 
 
+
+ </body>
+
 <?php
 include '../footer.php';
 ?>
- </body>
-</html>

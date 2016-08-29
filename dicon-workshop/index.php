@@ -5,12 +5,15 @@ include '../header.php';
  include('../dbConnection.php');
 ?>
 
-<!doctype html>
-<html>
-<head>
+
+
+
+
+<body >
+
 <title>Drishticone || WorkShop</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
- 
+
 
 
 <style>
@@ -38,9 +41,7 @@ $(function() {
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=900138460052258";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-</head>
 
-<body >
 <div style="margin-left:30px; margin-right:30px;">
 <div class="container">
 <div class="row" >
@@ -305,7 +306,7 @@ $(function() {
 <br>
 <p style="font-size:15px; line-height:30px; padding:5px; letter-spacing:.7px;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In today's internet driven world , websites are the heart of everything from business to gaming to social experiences to even academia .
-So,in this web driven world , web developers are the pioneers .<br> 
+So,in this web driven world , web developers are the pioneers .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drishticone bring to you the event <b><u>WEB-Wizards</u></b> which begets in you a web developer , equipped with new technologies and all the skills needed.<br>
 <span class="title2"><br>Theme for the competition:</span><br>
 "EFFULGENCE" the national level technical fest of our college is going to be held in the upcoming month(just an example). Your team has been assigned the task to design a website for the fest using basic HTML and CSS .<br><br> <span class="title2">Features:<br></span>
@@ -391,12 +392,12 @@ Akanksha Singh (IT 2nd Year)<br ><br>
 				{
 					echo '<center>Login into Drishticone to register for workshop</center>';
 				}
-?>		
+?>
 
 <hr>
 <span class="title2">Workshop Update:</span><br>
 
-<b>Time : </b>10:00am - 12:30am, 26 jan 2016<br>	
+<b>Time : </b>10:00am - 12:30am, 26 jan 2016<br>
 <b>Venue : EE 301 or EE 302</b><br><br>
 
 <span class="title2">Note:</span><br>
@@ -410,9 +411,9 @@ Akanksha Singh (IT 2nd Year)<br ><br>
 </div>
 
 
+
+ </body>
+
 <?php
 include '../footer.php';
 ?>
- </body>
-</html>
-

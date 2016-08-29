@@ -5,9 +5,9 @@ include '../header.php';
  include('../dbConnection.php');
 ?>
 
-<!doctype html>
-<html>
-<head>
+
+
+<body>
 <title>Drishticone || Article</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
@@ -36,9 +36,9 @@ $(function() {
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=900138460052258";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-</head>
 
-<body>
+
+
 <div style="margin-left:30px; margin-right:30px;">
 <div class="row">
 <div class="col-md-9">
@@ -48,7 +48,7 @@ $(function() {
 <hr>
 <div class="row">
 
-<?php 
+<?php
 $q=mysqli_query($con ,"SELECT * FROM article  where flag='1' and type !='News' ORDER BY time DESC ") or die ("Error");
 while($row=mysqli_fetch_array($q))
 {
@@ -110,14 +110,17 @@ echo '
 
 
 </div></div><!--container closed-->
+
+<?php $aid='56a6036498a8c' ;
+include '../../temp.php';?>
+
+<?php $aid='56a6036498a8c' ;
+include '../../temp.php';?>
 <?php
 include '../footer.php';
 ?>
+
+
+
+
  </body>
-</html>
-
-<?php $aid='56a6036498a8c' ; 
-include '../../temp.php';?>
-
-<?php $aid='56a6036498a8c' ; 
-include '../../temp.php';?>

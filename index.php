@@ -4,9 +4,12 @@ include 'fblogin.php';
 include 'header.php';
 ?>
 
-<!doctype html>
-<html>
-<head>
+
+
+
+
+
+<body>
 <title>Drishticone || Home</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
  <link  rel="stylesheet" href="css/jquery.mCustomScrollbar.css">
@@ -24,8 +27,8 @@ font-weight:200;
 .notice
 {
 margin-left:10px;
-margin-right:10px; 
-height:250px; 
+margin-right:10px;
+height:250px;
 line-height:35px;
 padding:5px;
 margin-top:-25px;
@@ -39,7 +42,7 @@ margin-bottom:-25px;
 .events
 {
 
-max-height:300px; 
+max-height:300px;
 line-height:35px;
 padding:5px;
 margin-top:-25px;
@@ -59,10 +62,6 @@ $(function() {
     }
 });
 </script>
-
-</head>
-
-<body>
 <div style="margin-left:30px; margin-right:30px;">
 <div class="row">
 <div class="col-md-3"><!--right column start-->
@@ -81,7 +80,7 @@ $(function() {
    {
   echo ' <p style="font-size:15px;color:red"><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>&nbsp;&nbsp;No notice to display.</p>';
   }
-  
+
  while($row=mysqli_fetch_array($q))
  {
  $title=$row['title'];
@@ -102,10 +101,10 @@ $minutes = floor($delta_time / 60);
  if($hours<168)
  echo '&nbsp;&nbsp;<img src="image/new.gif" height="10" width="35" />';
  echo '<br />';
- 
+
  }
  ?>
- 
+
  </div>
  <hr>
  <a href="#" style="float:right;"><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span>&nbsp;&nbsp;Archive</a>
@@ -170,7 +169,7 @@ echo '
 
 
 
-<?php 
+<?php
 $q=mysqli_query($con ,"SELECT * FROM article  where flag='1' ORDER BY time DESC ") or die ("Error");
 while($row=mysqli_fetch_array($q))
 {
@@ -206,9 +205,10 @@ echo '
 </div><!--col-md-9 closed-->
 </div><!--row closed-->
 </div><!--container closed-->
+script type="text/javascript"> var infolinks_pid = 2535606; var infolinks_wsid = 0; </script> <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>-->
+ </body>
+
 <?php
 include 'footer.php';
 ?>
-<!--<script type="text/javascript"> var infolinks_pid = 2535606; var infolinks_wsid = 0; </script> <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>-->
- </body>
-</html>
+<!--<

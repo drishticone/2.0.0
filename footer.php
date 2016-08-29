@@ -1,11 +1,8 @@
-<!doctype html>
-<html>
-<head>
+
+
+
 <meta charset="utf-8">
 <title>Drishticone || Footer</title>
-</head>
-
-<body >
 <?php
 include 'dbConnection.php';
 ?>
@@ -21,7 +18,7 @@ include 'dbConnection.php';
 				<p class="footerleft"><a  href="http://drishticone.org/webmail">Web-Mail</a></p>
                 <!--<p class="footerleft"><a  href="#!">Alumni&nbsp;Portal</a></p>
                 <p class="footerleft"><a  href="http://drishticone.org/submit_photo">Submit&nbsp;Photo</a></p>-->
-                
+
                 </div>
                 <div class="col-md-6">
                 <p class="footerleft"><a  href="http://drishticone.org/write_news">Write&nbsp;News</a></p>
@@ -41,8 +38,8 @@ include 'dbConnection.php';
 				}
 				}
 				?>
-				
-              
+
+
                  <p class="footerleft"><a  href="http://drishticone.org/feedback/">Feedback</a></p>
                  <!--  <p class="footerleft"><a  href="http://drishticone.org/report_problem/">Report&nbsp;a&nbsp;Problem</a></p>-->
                 </div></div>
@@ -52,19 +49,19 @@ include 'dbConnection.php';
              <!-- <p class="footerleft" style="margin-top:30px">Archive</p>
                <form class="form-inline">
   <div class="form-group">
-   
+
    <div class="input-group">
       <div class="input-group-addon"><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span></div>
      <select id="month" name="month" placeholder="Select Month" class="form-control input-md" >
    <option value="#">Select Month</option>
   <option value="M">August 2015</option>
   <option value="F">September 2015</option> </select>
-      
+
     </div>
   </div>
   &nbsp;<button type="submit" class="btn btn-primary sub" style="background:#1d9d74; border-radius:0px;">Submit&nbsp;&nbsp;<span class="glyphicon glyphicon-send" aria-hidden="true"></span></button>
 </form>-->
-      <!--archives end-->         
+      <!--archives end-->
               </div>
             </div>
           </div>

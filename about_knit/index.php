@@ -3,12 +3,13 @@ include '../fblogin.php';
 include '../header.php';
 ?>
 
-<!doctype html>
-<html>
-<head>
+
+
+<body>
+
 <title>Drishticone || About Knit</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
- 
+
 
 
 <style>
@@ -25,9 +26,6 @@ font-weight:200;
 
 </style>
 
-</head>
-
-<body>
 <div style="margin-left:30px; margin-right:30px;">
 <div class="row">
 <div class="col-md-9">
@@ -50,8 +48,9 @@ Established in the year 1976, Kamla Nehru Institute of Technology, Sultanpur is 
 
 </div></div>
 </div><!--container closed-->
+
+ </body>
+
 <?php
 include '../footer.php';
 ?>
- </body>
-</html>
