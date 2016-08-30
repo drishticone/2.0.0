@@ -4,15 +4,11 @@
     include '../../header.php';
      include('../../dbConnection.php');
     ?>
-
     <!doctype html>
     <html>
     <head>
     <title>Drishticone || News</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-
-
-
     <style>
     .title2
     {
@@ -20,7 +16,6 @@
     font-size:20px;
     font-weight:200;
     }
-
     </style>
     <script>
     $(function() {
@@ -37,24 +32,26 @@
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
     </head>
-
     <body>
-    <div style="margin-left:30px; margin-right:30px;">
+<div style="margin-left:30px; margin-right:30px;">
     <div class="row">
     <div class="col-md-3">
     <div class="panel panel-default">
       <div class="panel-body">
      <center><p class="title2"><span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span>&nbsp;&nbsp;Councils</p></center>
-     </div></div>
+     </div>
+ </div>
     <a href="#">
     <div class="panel panel-default hoverable">
       <div class="panel-body">
       <div class="col-md-5">
-     <img src="../iste/image/iste.png"></div></br></br>
+     <img src="../iste/image/iste.png"></div>
+ </br>
+</br>
     <center><p class="title2"> ISTE</p></center>
      </a>
-    </div></div>
-
+    </div>
+</div>
     <!--event start-->
     <div class="panel panel-default">
       <div class="panel-body">
@@ -67,38 +64,35 @@
       <p style="color:red;"><span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>&nbsp;&nbsp;Kavi-Sammelan</p>
       <p><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>&nbsp;2016-04-02</p><p><span class="glyphicon glyphicon-time" aria-hidden="true"></span>&nbsp;15:30:00</p>
       <p><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>&nbsp;&nbsp;CSA</p>
-      </div></div></a></div>
+      </div>
+  </div>
+</a>
+</div>
     <hr>
-    </div></div>
-    <!--event end-->
-
-
-
     </div>
+</div>
+    <!--event end-->
+</div>
     <!-- column end-->
-
-
-    <div class="col-md-6">
-
+<div class="col-md-6">
     <div class="panel-body">
     <div class="panel panel-default">
     <ul class="nav nav-tabs" role="tablist" id="myTab">
       <!-- <li class="active"><a href="#about" role="tab" data-toggle="tab">About</a></li> -->
      <!-- <li><a href="#activity" role="tab" data-toggle="tab">News</a></li> -->
       </ul>
-
      <center><p class="title2"><span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span>&nbsp;&nbsp;ISTE</p></center>
      <hr>
-
-
+ </div>
       <div id="about" style="margin-left:30px; margin-right:30px;"><p>
     One of the most ingenious and scientiﬁc councils in KNIT, ISTE encompasses whole-dimensioned potential development of students. Round the year, it organizes numerous technical and non-technical events with loads of fun attached to it. ISTE realizes its sole objective of providing an impetus to the scientiﬁc knowledge of the students. </br>
      <b> Convener - Prof. Ajay Shekhar Pandey </b>
     </p>
     <div class="row">
     <div class="col-md-12">
-     <center><p class="title2">Administration</p></center></div></div>
-
+     <center><p class="title2">Administration</p></center>
+ </div>
+</div>
     <div class="row">
     <div class="col-md-2 mid"></div>
     <div class="col-md-3 mid">
@@ -107,177 +101,157 @@
     <a href="http://www.raghuraj.info/"><p><center>Prof. Raghuraj Singh<br /></a>
     <span class="green">Patron</span></p>
     </div>
-    <div class="col-md-2 mid"></div>
+    <div class="col-md-2 mid">
+    </div>
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
     <img src="../iste/image/Ajay.jpg"  height="110" width="110" alt="Prof. Ajay Shekhar Pandey" class="img-circle">
     <br>
     <p><center>Prof. Ajay Shekhar Pandey<br />
     <span class="green">Convener</span></p>
     </div>
-    <div class="col-md-2 mid"></div>
-    </div><br><br>
+    <div class="col-md-2 mid">
+    </div>
+    </div>
+    <br>
+    <br>
 
     <!-- Team Members -->
 
     <div class="row">
     <div class="col-md-12">
-     <center><p class="title2">Final Year Team Members</p></center></div></div><br>
-
-
+     <center><p class="title2">Final Year Team Members</p></center>
+ </div>
+</div>
+<br>
     <!-- Final year Team Members -->
-
     <div class="row">
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Pranav Goel" class="img-circle">
+    <img src="../iste/image/pranav goel.jpg"  height="100" width="100" alt="Pranav Goel" class="img-circle">
     <br>
     <p><center>Pranav Goel<br />
     <span class="green">Chairperson</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Samiksha Agarwal" class="img-circle">
+    <img src="../iste/image/samiksha.jpg"  height="100" width="100" alt="Samiksha Agarwal" class="img-circle">
     <br>
     <p><center>Samiksha Agarwal<br />
     <span class="green">Vice Chairperson</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Alpa garg" class="img-circle">
+    <img src="../iste/image/alpa.jpg"  height="100" width="100" alt="Alpa garg" class="img-circle">
     <br>
     <p><center>Alpa Garg<br />
     <span class="green">Event co-ordinator</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Sushant chauhan" class="img-circle">
+    <img src="../iste/image/sushant.jpg"  height="100" width="100" alt="Sushant chauhan" class="img-circle">
     <br>
     <p><center>Sushant chauhan<br />
     <span class="green">Treasurer</span></p>
     </div>
     </div><br>
-
     <!-- row 2 -->
-
     <div class="row">
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Vinay Kumar chaubey" class="img-circle">
+    <img src="../iste/image/vinay.jpg"  height="100" width="100" alt="Vinay Kumar chaubey" class="img-circle">
     <br>
     <p><center>Vinay Kumar chaubey<br />
     <span class="green">Chief Executive</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Devanshi Shukla" class="img-circle">
+    <img src="../iste/image/devanshi.jpg"  height="100" width="100" alt="Devanshi Shukla" class="img-circle">
     <br>
     <p><center>Devanshi Shukla<br />
     <span class="green">Chief Executive</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Mayank Pathak" class="img-circle">
+    <img src="../iste/image/mayank.jpg"  height="100" width="100" alt="Mayank Pathak" class="img-circle">
     <br>
     <p><center>Mayank Pathak<br />
     <span class="green">Chief Executive</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Abhijeet Tripathi" class="img-circle">
+    <img src="../iste/image/abhijeet.jpg"  height="100" width="100" alt="Abhijeet Tripathi" class="img-circle">
     <br>
     <p><center>Abhijeet Tripathi<br />
     <span class="green">Chief Executive</span></p>
     </div>
-
     </div>
-
     <div class="row">
-
-    <div class="col-md-12" style="border-right:1px solid #eee">
-    <center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Gaurav Srivastav" class="img-circle">
+    <div class="col-md-3 mid" style="border-right:1px solid #eee">
+    <center><img src="../iste/image/gaurav.jpg"  height="100" width="100" alt="Gaurav Srivastav" class="img-circle">
     <br>
     <p><center>Gaurav Srivastav<br />
     <span class="green">Chief Executive</span></p>
     </div>
-    </div><br><br>
+    </div>
+    <br>
+    <br>
 
     <!-- Third Year Team Member -->
 
     <div class="row">
     <div class="col-md-12">
-     <center><p class="title2">Second Year Team Members</p></center></div></div><br>
-
+     <center><p class="title2">Second Year Team Members</p></center>
+ </div>
+</div>
+<br>
     <div class="row">
-
       <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Rajat Khemkha " class="img-circle">
+    <img src="../iste/image/rajat.jpg"  height="100" width="100" alt="Rajat Khemkha " class="img-circle">
     <br>
     <p><center>Rajat Khemkha<br />
     <span class="green">Secretary</span></p>
     </div>
-    </div>
-
-
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Roli Verma
+    <img src="../iste/image/soumya.jpg"  height="100" width="100" alt="Roli Verma
     " class="img-circle">
     <br>
     <p><center>Soumya Dubey<br />
     <span class="green">Joint Secretary</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Ayush Arela" class="img-circle">
+    <img src="../iste/image/ayush.jpg"  height="100" width="100" alt="Ayush Arela" class="img-circle">
     <br>
     <p><center>Ayush Arela<br />
     <span class="green">Treasurer</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Anuja Gupta" class="img-circle">
+    <img src="../iste/image/akriti.jpg"  height="100" width="100" alt="Anuja Gupta" class="img-circle">
     <br>
     <p><center>Akriti Sharma<br />
     <span class="green">Girls Co-ordinator</span></p>
     </div>
     </div><br>
-
     <!-- row 2 -->
-
     <div class="row">
-
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Anshul Varshney" class="img-circle">
+    <img src="../iste/image/anshul.jpg"  height="100" width="100" alt="Anshul Varshney" class="img-circle">
     <br>
     <p><center>Anshul Varshney<br />
     <span class="green">Boys Co-ordinator</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Akriti Sharma" class="img-circle">
+    <img src="../iste/image/sneha.jpg"  height="100" width="100" alt="Akriti Sharma" class="img-circle">
     <br>
     <p><center>Sneha Bharti<br />
     <span class="green">Cyber Cell Co-ordinator</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Sneha Bharti" class="img-circle">
+    <img src="../iste/image/anuja.jpg"  height="100" width="100" alt="Sneha Bharti" class="img-circle">
     <br>
     <p><center>Anuja Gupta<br />
     <span class="green">Senior Executive</span></p>
     </div>
-    </div><br>
-
+    <br>
      <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Vipul Kapoor" class="img-circle">
+    <img src="../iste/image/vipul.jpg"  height="100" width="100" alt="Vipul Kapoor" class="img-circle">
     <br>
     <p><center>Vipul Kapoor<br />
     <span class="green">Senior Executive<span></p>
     </div>
-
+</div>
     <!-- row 3 -->
-
     <div class="row">
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
     <img src="../iste/image/default.jpg"  height="100" width="100" alt="Shashank Mishra" class="img-circle">
@@ -285,39 +259,33 @@
     <p><center>Shashank Mishra<br />
     <span class="green">Senior Executive<span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Nidhi Srivastava" class="img-circle">
+    <img src="../iste/image/nidhi.jpg"  height="100" width="100" alt="Nidhi Srivastava" class="img-circle">
     <br>
     <p><center>Nidhi Srivastava<br />
     <span class="green">Senior Executive</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Tushar Bansal" class="img-circle">
+    <img src="../iste/image/tushar.jpg"  height="100" width="100" alt="Tushar Bansal" class="img-circle">
     <br>
     <p><center>Tushar Bansal<br />
     <span class="green">Senior Executive</span></p>
     </div>
-
-   <div class="col-md-3 mid" style="border-right:1px solid #eee">
+    <div class="col-md-3 mid" style="border-right:1px solid #eee">
     <img src="../iste/image/default.jpg"  height="100" width="100" alt="Ashay Kr. Ashish" class="img-circle">
     <br>
     <p><center>Ashay Kr. Ashish<br />
     <span class="green">Senior Executive<span></p>
     </div>
-
     <div class="row">
-
-  <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="Ashay Kr. Ashish" class="img-circle">
+    <div class="col-md-3 mid" style="border-right:1px solid #eee">
+    <img src="../iste/image/vikrant.jpg"  height="100" width="100" alt="Ashay Kr. Ashish" class="img-circle">
     <br>
     <p><center>Vikrant<br />
     <span class="green">Senior Executive<span></p>
     </div>
-
-    <div class="col-md-12" style="border-right:1px solid #eee">
-    <center><img src="../iste/image/default.jpg"  height="100" width="100" alt=" Shikha Srivastava" class="img-circle">
+    <div class="col-md-3 mid" style="border-right:1px solid #eee">
+    <center><img src="../iste/image/shikha.jpg"  height="100" width="100" alt=" Shikha Srivastava" class="img-circle">
     <br>
     <p><center>Shikha Srivastava<br />
     <span class="green">Senior Executive</span></p>
@@ -328,163 +296,137 @@
 
     <div class="row">
     <div class="col-md-12">
-     <center><p class="title2">Second Year Team Members</p></center></div></div><br>
-
+     <center><p class="title2">Second Year Team Members</p></center>
+ </div>
+</div>
+<br>
     <!-- row 1 -->
     <div class="row">
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="AJAY PRAKASH PANDEY" class="img-circle">
+    <img src="../iste/image/ajay pp.jpg"  height="100" width="100" alt="AJAY PRAKASH PANDEY" class="img-circle">
     <br>
-    <p><center>AJAY PRAKASH PANDEY<br />
+    <p><center>Ajay Prakash Pandey<br />
     <span class="green">Executive<span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="DEEPAK TIWARI" class="img-circle">
+    <img src="../iste/image/deepak.jpg"  height="100" width="100" alt="DEEPAK TIWARI" class="img-circle">
     <br>
-    <p><center>DEEPAK TIWARI<br />
+    <p><center>Deepak Tiwari<br />
     <span class="green">Executive</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="NIKITA DUBEY " class="img-circle">
+    <img src="../iste/image/nikita.jpg"  height="100" width="100" alt="NIKITA DUBEY " class="img-circle">
     <br>
-    <p><center>NIKITA DUBEY <br />
+    <p><center>Nikita Dubey<br />
     <span class="green">Executive</span></p>
     </div>
-
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="ANJALI MISHRA" class="img-circle">
+    <img src="../iste/image/anjali.jpg"  height="100" width="100" alt="ANJALI MISHRA" class="img-circle">
     <br>
-    <p><center>ANJALI MISHRA<br />
+    <p><center>Anjali Mishra<br />
     <span class="green">Executive</span></p>
     </div>
     </div><br>
     <!-- row 2 -->
-
     <div class="row">
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="SHIVANGI DWIVEDI" class="img-circle">
+    <img src="../iste/image/shivangi dwivedi.jpg"  height="100" width="100" alt="SHIVANGI DWIVEDI" class="img-circle">
     <br>
-    <p><center>SHIVANGI DWIVEDI<br />
+    <p><center>Shivangi Dwivedi<br />
     <span class="green">Executive<span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="LUV DUBEY" class="img-circle">
+    <img src="../iste/image/luv.jpg"  height="100" width="100" alt="LUV DUBEY" class="img-circle">
     <br>
-    <p><center>LUV DUBEY<br />
+    <p><center>Luv Dubey<br />
     <span class="green">Executive</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="DEEKSHA SHARMA" class="img-circle">
+    <img src="../iste/image/deeksha.jpg"  height="100" width="100" alt="DEEKSHA SHARMA" class="img-circle">
     <br>
-    <p><center>DEEKSHA SHARMA<br />
+    <p><center>Deeksha Sharma<br />
     <span class="green">Executive</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="PANKAJ KUMAR" class="img-circle">
+    <img src="../iste/image/pankaj.jpg"  height="100" width="100" alt="PANKAJ KUMAR" class="img-circle">
     <br>
-    <p><center>PANKAJ KUMAR<br />
+    <p><center>Pankaj Kumar<br />
     <span class="green">Executive</span></p>
     </div>
-    </div><br>
-
+    </div>
+    <br>
     <!-- ROW 3 -->
-
     <div class="row">
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="CHIRAG GOYAL" class="img-circle">
+    <img src="../iste/image/chirag.jpg"  height="100" width="100" alt="CHIRAG GOYAL" class="img-circle">
     <br>
-    <p><center>CHIRAG GOYAL<br />
+    <p><center>Chirag Goyal<br />
     <span class="green">Executive<span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="ARPIT BAJPAI" class="img-circle">
+    <img src="../iste/image/arpit.jpg"  height="100" width="100" alt="ARPIT BAJPAI" class="img-circle">
     <br>
-    <p><center>ARPIT BAJPAI<br />
+    <p><center>Arpit Bajpai<br />
     <span class="green">Executive</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="YASH AGRAWAL" class="img-circle">
+    <img src="../iste/image/yash.jpg"  height="100" width="100" alt="YASH AGRAWAL" class="img-circle">
     <br>
-    <p><center>YASH AGRAWAL<br />
+    <p><center>Yash Agrawal<br />
     <span class="green">Executive</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="SHIVANGI AWASTHI" class="img-circle">
+    <img src="../iste/image/shivangi.jpg"  height="100" width="100" alt="SHIVANGI AWASTHI" class="img-circle">
     <br>
-    <p><center>SHIVANGI AWASTHI<br />
+    <p><center>Shivangi Awasthi<br />
     <span class="green">Executive</span></p>
     </div>
     </div><br>
-
     <!-- row 4 -->
-
     <div class="row">
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="RAGHAV AGRAWAL" class="img-circle">
+    <img src="../iste/image/raghav.jpg"  height="100" width="100" alt="RAGHAV AGRAWAL" class="img-circle">
     <br>
-    <p><center>RAGHAV AGRAWAL<br />
+    <p><center>Raghav Agrawal<br />
     <span class="green">Executive<span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="ABHISHEK KUSHWAHA" class="img-circle">
+    <img src="../iste/image/abhishek.jpg"  height="100" width="100" alt="ABHISHEK KUSHWAHA" class="img-circle">
     <br>
-    <p><center>ABHISHEK KUSHWAHA<br />
+    <p><center>Abhishek Kushwaha<br />
     <span class="green">Executive</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="AYUSH BAJPAI" class="img-circle">
+    <img src="../iste/image/ayush bajpai.jpg"  height="100" width="100" alt="AYUSH BAJPAI" class="img-circle">
     <br>
-    <p><center>AYUSH BAJPAI<br />
+    <p><center>Ayush Bajpai<br />
     <span class="green">Executive</span></p>
     </div>
-
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <img src="../iste/image/default.jpg"  height="100" width="100" alt="PRAVEEN KUMAR TIWARI" class="img-circle">
+    <img src="../iste/image/praveen.jpg"  height="100" width="100" alt="PRAVEEN KUMAR TIWARI" class="img-circle">
     <br>
-    <p><center>PRAVEEN KUMAR TIWARI<br />
+    <p><center>Praveen Kumar Tiwari<br />
     <span class="green">Executive</span></p>
     </div>
-    </div><br>
-
+    </div>
+    <br>
     <div class="row">
-
-    <div class="col-md-12" style="border-right:1px solid #eee">
+    <div class="col-md-3 mid" style="border-right:1px solid #eee">
     <center><img src="../iste/image/default.jpg"  height="100" width="100" alt="KEERTI" class="img-circle">
     <br>
-    <p><center>KEERTI<br />
+    <p><center>Keerti Singh<br />
     <span class="green">Executive</span></p>
     </div>
     </div>
-
-    </div></div></div>
-
     </div>
+</div>
+</div>
+</div>
     <!--panel end-->
-
-
-
-    <!----------------------------------------------------------------------------------------------------------------------------->
-
-
+    <!--------------------------------------------------------------------------------------------------------------------------- -->
 
     <div class="col-md-3"><!--right column start-->
     <!--important notice start-->
-
     <div class="panel panel-default">
       <div class="panel-body">
      <center><p class="title2"><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span>&nbsp;&nbsp;Important Notice</p></center>
@@ -496,23 +438,11 @@
      <a href="#" style="float:right;"><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span>&nbsp;&nbsp;Archive</a>
      </div>
       </div>
-
-
-
     </div>
     <!-- column end--></div>
-
-
-
-
-
-
-
-
-
-
-
-    </div></div><!--container closed-->
+    </div>
+</div>
+<!--container closed-->
     <?php
     include '../../footer.php';
     ?>
