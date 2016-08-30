@@ -50,8 +50,10 @@ $(function() {
 
 <?php 
 $q=mysqli_query($con ,"SELECT * FROM article  where flag='1' and type !='News' ORDER BY time DESC ") or die ("Error");
-while($row=mysqli_fetch_array($q))
+$c=0;
+while($row=mysqli_fetch_array($q) && c<18 )
 {
+ $c++;
 $aid=$row['aid'];
 $title=$row['title'];
 $writer_id=$row['writer_id'];
