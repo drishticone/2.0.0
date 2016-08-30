@@ -129,28 +129,28 @@ Computer Society of India is the student's chapter in KNIT. The purpose of this 
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/sunidhi.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Sunidhi Raj Singh(IT)<br />
-<span class="green">Chair person</span></p>
+<span class="green">Chief EXecutive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/deepti.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Deepti Sharma(IT)<br />
-<span class="green">Vice chairperson</span></p>
+<span class="green">Chief Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/samiksha.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Samiksha agarwal(CSE)<br />
 <span class="green">Chief executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/lipi.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Lipi Gupta(CSE)<br />
 <span class="green">Chief executive</span></p>
@@ -162,28 +162,28 @@ Computer Society of India is the student's chapter in KNIT. The purpose of this 
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/suhani.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Suhani Saxena(CSE)<br />
 <span class="green">Chief executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/deepak.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Deepak Singh(IT)<br />
 <span class="green">Chief executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/shikhar.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Shikhar Agarwal(CSE)<br />
 <span class="green">Chief executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Sachin vishwakarma(CSE)<br />
 <span class="green">Chief executive</span></p>
@@ -195,28 +195,28 @@ Computer Society of India is the student's chapter in KNIT. The purpose of this 
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/tejus.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Tejus Agarwal(CSE)<br />
 <span class="green">Chief executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/raju.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Raju Varshney(CSE)<br />
 <span class="green">Chief executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Harshit Sharma(CSE)<br />
 <span class="green">Chief executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/shashwat.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Shashwat Mishra(CSE)<br />
 <span class="green">Chief executive</span></p>
@@ -232,28 +232,28 @@ Computer Society of India is the student's chapter in KNIT. The purpose of this 
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/swati.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Swati Gangwar<br />
 <span class="green">Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/ankita.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Ankita Chand<br />
 <span class="green">Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/garvita.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Garvita Garg<br />
 <span class="green">Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/priyal.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Priyal Mishra<br />
 <span class="green">Senior Executive</span></p>
@@ -265,74 +265,76 @@ Computer Society of India is the student's chapter in KNIT. The purpose of this 
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/devoshree.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Devoshree Mukherjee<br />
 <span class="green">Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Shreya Anand<br />
 <span class="green">Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/shubham.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Shubham Saxena<br />
 <span class="green">Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/tushar.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Tushar Bansal<br />
 <span class="green">Senior Executive</span></p>
 </div>
 
-</div>
+ <!-- row 3 -->
 
 <div class="row">
 
-<div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
+<center><img src="../csi/image/vageesh.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Vageesh Mishra<br />
 <span class="green">Senior Executive</span></p>
 </div>
 
-<div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
+<center><img src="../csi/image/anurag.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Anurag Srivastava<br />
 <span class="green">Senior Executive</span></p>
 </div>
 
-<div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
+<center><img src="../csi/image/sharad.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Sharad Shukla<br />
 <span class="green">Senior Executive</span></p>
 </div>
 
-<div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
+<center><img src="../csi/image/atul.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Atul Kumar Chaturvedi<br />
 <span class="green">Senior Executive</span></p>
 </div>
 
-<div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<!-- row 4 -->
+
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
+<center><img src="../csi/image/anshul.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Anshul Varshney<br />
 <span class="green">Senior Executive</span></p>
 </div>
 
-<div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
+<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Deepak Kumar Pathak<br />
 <span class="green">Senior Executive</span></p>
@@ -345,31 +347,33 @@ Computer Society of India is the student's chapter in KNIT. The purpose of this 
 <div class="col-md-12">
  <center><p class="title2">Second Year Team Members</p></center></div></div><br>
 
+<!-- row 1 -->
+
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/priyanka.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Priyanka Yadav<br />
 <span class="green">Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/astha.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Astha Dwivedi<br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/yash.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p><center>Yash agarwal<br />
 <span class="green">Executive</span></p>
-</div>
+</div>-->
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/shivangi.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Shivangi Awasthi<br />
 <span class="green">Executive</span></p>
@@ -381,28 +385,28 @@ Computer Society of India is the student's chapter in KNIT. The purpose of this 
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/aditya.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Aditya Gupta<br />
 <span class="green">Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/sandeep.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Sandeep Nigam<br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/vishwas.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Vishwas Gupta<br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/aayush.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Aayush Varshney<br />
 <span class="green">Executive</span></p>
@@ -413,68 +417,71 @@ Computer Society of India is the student's chapter in KNIT. The purpose of this 
 
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/shivam.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Shivam Sharma<br />
 <span class="green">Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/shweta.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Shweta Kamal<br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/anuj.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Anuj Sharma<br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt=" " class="img-circle">
+<center><img src="../csi/image/harishankar.jpg"  height="100" width="100" alt=" " class="img-circle">
 <br>
 <p><center>Harishankar Tiwari<br />
 <span class="green">Executive</span></p>
 </div>
-</div>
+
+<!-- row 4 -->
 
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../csi/image/shivesh.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Shivesh Kumar Rai<br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt=" " class="img-circle">
+<center><img src="../csi/image/vinayak.jpg"  height="100" width="100" alt=" " class="img-circle">
 <br>
 <p><center>Vinayak Baranwal<br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt=" " class="img-circle">
+<center><img src="../csi/image/keerti.jpg"  height="100" width="100" alt=" " class="img-circle">
 <br>
 <p><center>Keerti Singh<br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt=" " class="img-circle">
+<center><img src="../csi/image/kashish.jpg"  height="100" width="100" alt=" " class="img-circle">
 <br>
 <p><center>Kashish Sahu<br />
 <span class="green">Executive</span></p>
 </div>
 
+<!-- row 5 -->
+
 <div class="row">
 
-<div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../csi/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
+<center><img src="../csi/image/ankit.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Ankit Kumar<br />
 <span class="green">Executive</span></p>
