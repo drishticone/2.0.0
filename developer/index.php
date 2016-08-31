@@ -57,8 +57,9 @@ $(function() {
  <center><p class="title2"><span class="glyphicon glyphicon-king" aria-hidden="true"></span>&nbsp;&nbsp;Web Team</p></center>
 <hr>
  <center><p class="title2">Final Year Team</p></center>
- 
- 
+
+<!--
+
 <div class="col-md-3 mid">
 <img src="http://drishticone.org/developer/photo/vipin.jpg"  height="140" width="140" alt="Vipin Srivastav" class="img-circle">
 <br>
@@ -97,7 +98,8 @@ $(function() {
 <div class="col-md-4 col-md-offset-4"><hr></div></div>
 
 
- <center><p class="title2">Third Year Team</p></center>
+-->
+
 
 
 <div class="col-md-3 mid">
@@ -127,7 +129,8 @@ $(function() {
 <div class="col-md-4 col-md-offset-4"><hr></div></div>
 
 
- <center><p class="title2">Second Year Team</p></center>
+ <center><p class="title2">Third Year Team</p></center>
+
 
 <div class="col-md-3 mid">
 <img src="http://drishticone.org/developer/photo/atulg.jpg"  height="140" width="140" alt="Atual Gupta" class="img-circle">
@@ -178,18 +181,66 @@ $(function() {
 
 
 
+ <center><p class="title2">Second Year Team</p></center>
+
+
+<div class="col-md-3 mid">
+<img src="http://drishticone.org/developer/photo/mayank.jpg"  height="140" width="140" alt="Mayank Kaushik" class="img-circle">
+<br>
+<p>Mayank Kaushik<br />
+<span class="green">Developer</span></p>
+</div>
+
+
+<div class="col-md-3 mid">
+<img src="http://drishticone.org/developer/photo/ankit.jpg"  height="140" width="140" alt="Ankit Mishra" class="img-circle">
+<br>
+<p>Ankit Mishra<br />
+<span class="green">Developer</span></p>
+</div>
+
+
+<div class="col-md-3 mid">
+<img src="http://drishticone.org/developer/photo/aayush.jpg"  height="140" width="140" alt="Aayush varshney" class="img-circle">
+<br>
+<p>Aayush varshney<br />
+<span class="green">Developer</span></p>
+</div>
 
 
 
+<div class="col-md-3 mid">
+<img src="http://drishticone.org/developer/photo/vivek.jpg"  height="140" width="140" alt="vivek kr. singh" class="img-circle">
+<br>
+<p>vivek kr. singh<br />
+<span class="green">Developer</span></p>
+</div>
 
 
 
+<div class="col-md-3 mid">
+<img src="http://drishticone.org/developer/photo/anushka.jpg"  height="140" width="140" alt="Anushka Agrawal" class="img-circle">
+<br>
+<p>Anushka Agrawal<br />
+<span class="green">Developer</span></p>
+</div>
 
 
 
+<div class="col-md-3 mid">
+<img src="http://drishticone.org/developer/photo/anuradha.jpg"  height="140" width="140" alt="Anuradha raj" class="img-circle">
+<br>
+<p>Anuradha raj<br />
+<span class="green">Developer</span></p>
+</div>
 
 
-
+<div class="col-md-3 mid">
+<img src="http://drishticone.org/developer/photo/priyanshi.jpg"  height="140" width="140" alt="Priyanshi singh" class="img-circle">
+<br>
+<p>Priyanshi singh<br />
+<span class="green">Developer</span></p>
+</div>
 
 
 
