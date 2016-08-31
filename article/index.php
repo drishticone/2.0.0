@@ -3,6 +3,10 @@ $nav=2;
 include '../fblogin.php';
 include '../header.php';
  include('../dbConnection.php');
+
+
+
+
 ?>
 
 <!doctype html>
@@ -10,9 +14,69 @@ include '../header.php';
 <head>
 <title>Drishticone || Article</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+<script>
+$(document).ready(function(){
+
+       window.start = 0;
+       window.no = 9;
+       window.endLimit;
+
+        $.post('http://drishticone.org/article/articles.php', {'action': "articleCallRow"}, function (response) {
+            window.endLimit = parseInt(response);
+             //alert(parseInt(response));
+        });
+
+        oncedata =  {'action': "articleCall", 'start': window.start, 'no': window.no };
+        $.post('http://drishticone.org/article/articles.php', oncedata, function (response) {
+            
+             
+            if(window.start<(window.endLimit-window.no))
+              {
+                window.start = window.start+window.no;
+              }
+             else
+               {
+               //  $('.loadmore').attr('disabled','disabled');
+                  
+               }
+
+             
+            $('.articles').append(response);
+        });
 
 
+    
+       
+    $(".loadmore").click(function(){
+       
+       var fun = "articleCall";
+       
+       data =  {'action': fun, 'start': window.start, 'no': window.no };
+        $.post('http://drishticone.org/article/articles.php', data, function (response) {
+            
+             
+            if(window.start<(window.endLimit-window.no))
+              {
+                window.start = window.start+window.no;
+              }
+             else
+               {
+                 
 
+                $('.loadmore').hide();
+               }
+
+            //alert("action performed successfully"+response);
+            $('.articles').append(response);
+        });
+
+    });
+
+}); 
+
+</script>
 <style>
 .title2
 {
@@ -48,32 +112,18 @@ $(function() {
 <hr>
 <div class="row">
 
-<?php 
-$q=mysqli_query($con ,"SELECT * FROM article  where flag='1' and type !='News' ORDER BY time DESC ") or die ("Error");
-while($row=mysqli_fetch_array($q))
-{
-$aid=$row['aid'];
-$title=$row['title'];
-$writer_id=$row['writer_id'];
-$writer_name=$row['writer_name'];
-$type=$row['type'];
-$photo=$row['photo'];
-$article=$row['article'];
+<?php
+
+echo '<div class="articles"></div>';
 
 echo '
-<a href="'.$article.'"><div class="col-md-4">
-<div class="panel panel-default hoverable">
-  <div class="panel-body">
-  <div style="height:150px; overflow:hidden; margin:0px; padding:0px;"><img height="150" width="100%" src="'.$photo.'" /></div>
- <div  id="fitin" >'.$title.'</div>
-<hr />
-<div style="height:40px">
-<span style="float:left;color:#1d9d74;">'.$type.'</span>
-<span style="float:right"><a style="float:right" target="_blank" href="https://facebook.com/'.$writer_id.'"><span style="color:#1d9d74;">By&nbsp;:&nbsp;</span>'.$writer_name.'</a></span>
-</div></div></div>
 
-</div></a>
-<!--panel end-->';}
+<div class="row">
+
+<center><button class="loadmore btn btn-primary" >Load more</button></center>
+
+</div>';
+
 ?>
 
 
@@ -120,4 +170,7 @@ include '../footer.php';
 include '../../temp.php';?>
 
 <?php $aid='56a6036498a8c' ; 
+include '../../temp.php';?>
+
+<?php $aid='5710855a962a4' ; 
 include '../../temp.php';?>
