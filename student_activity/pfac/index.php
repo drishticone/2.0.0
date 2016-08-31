@@ -168,7 +168,7 @@ Photography and Fine Arts Club, is a forum dedicated to encourage all aspects of
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
 <center><img src="../pfac/image/Ritika Singh.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>>Ritika Singh<br />
+<p><center>Ritika Singh<br />
 <span class="green">Chief executive</span></p>
 </div>
 </div>
@@ -342,7 +342,7 @@ Photography and Fine Arts Club, is a forum dedicated to encourage all aspects of
 <p><center>Shalu Yadav<br />
 <span class="green">Senior Executive</span></p>
 </div>
-col-md-3 mid" style="border-right:1px solid #eee">
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
 <center><img src="../pfac/image/Shubham Srivastava.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center>Shubham Srivastava<br />
@@ -360,7 +360,7 @@ col-md-3 mid" style="border-right:1px solid #eee">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
 <center><img src="../pfac/image/Swapnil Raj.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>SWapnil Raj<br />
+<p><center>Swapnil Raj<br />
 <span class="green">Senior Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
@@ -499,7 +499,7 @@ col-md-3 mid" style="border-right:1px solid #eee">
 <center><img src="../pfac/image/Surya.jpg"  height="100" width="100" alt=" " class="img-circle">
 <br>
 <p><center>Surya Prakash Gond<br />
-<span class="green">Executive)</span></p>
+  <span class="green">Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
 <center><img src="../pfac/image/Swastika.jpg"  height="100" width="100" alt=" " class="img-circle">
