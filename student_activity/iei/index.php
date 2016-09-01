@@ -84,7 +84,7 @@
     <!-- column end-->
 
 
-    <div class="col-md-9">
+    <div class="col-md-9"><center>
 
       <div class="panel-body">
         <div class="panel panel-default">
@@ -93,7 +93,7 @@
             <!-- <li><a href="#activity" role="tab" data-toggle="tab">News</a></li> -->
           </ul>
 
-          <center><p class="title2"><span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span>&nbsp;&nbsp;IEI</center></p>
+          <p class="title2"><span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span>&nbsp;&nbsp;IEI</p>
           <hr>
 
 
@@ -107,7 +107,7 @@
 
         <div class="row">
           <div class="col-md-12">
-           <center><p class="title2">Administration</center></p>
+           <p class="title2">Administration</p>
          </div>
        </div>
        <br>
@@ -116,17 +116,17 @@
         <div class="col-md-2 mid">
         </div>
         <div class="col-md-4 mid">
-          <center><a href="http://www.raghuraj.info/"><img src="http://drishticone.org/image/aboutus/rj.jpg" height="110" width="110" alt="Prof. Raghuraj Singh" class="img-circle"></center></a>
+          <a href="http://www.raghuraj.info/"><img src="http://drishticone.org/image/aboutus/rj.jpg" height="110" width="110" alt="Prof. Raghuraj Singh" class="img-circle"></a>
           <br>
-          <a href="http://www.raghuraj.info/"><p><center>Prof. Raghuraj Singh<br /></a>
-          <span class="green">Patron</span></center></p>
+          <a href="http://www.raghuraj.info/"><p>Prof. Raghuraj Singh<br /></a>
+          <span class="green">Patron</span></p>
         </div>
 
         <div class="col-md-4 mid" style="border-right:1px solid #eee">
-          <center><img src="../iei/image/N.K Saxsena.jpg"  height="110" width="110" alt="Prof. N.K. Saxena" class="img-circle"></center>
+          <img src="../iei/image/N.K Saxsena.jpg"  height="110" width="110" alt="Prof. N.K. Saxena" class="img-circle">
           <br>
-          <p><center>Prof. N.K. Saxena<br />
-            <span class="green">Convener</span></center></p>
+          <p>Prof. N.K. Saxena<br />
+            <span class="green">Convener</span></p>
           </div>
           <div class="col-md-2 mid"></div>
         </div><br><br>
@@ -231,34 +231,34 @@
 
 <div class="row">
   <div class="col-md-12">
-   <center><p class="title2">Final Year Team Members</center></p>
+   <p class="title2">Final Year Team Members</p>
  </div>
 </div>
 <br>
 <div class="row">
   <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <center><img src="../iei/image/saman.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+    <img src="../iei/image/saman.jpg"  height="100" width="100" alt="" class="img-circle">
     <br>
-    <p><center>Saman Ateeq(EE)<br />
-      <span class="green">President</span></center></p>
+    <p>Saman Ateeq(EE)<br />
+      <span class="green">President</span></p>
     </div>
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-      <center><img src="../iste/image/mayank.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+      <img src="../iste/image/mayank.jpg"  height="100" width="100" alt="" class="img-circle">
       <br>
-      <p><center>Mayank Pathak(CSE) <br />
-        <span class="green">President</span></center></p>
+      <p>Mayank Pathak(CSE) <br />
+        <span class="green">President</span></p>
       </div>
       <div class="col-md-3 mid" style="border-right:1px solid #eee">
-        <center><img src="../iei/image/ali.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+        <img src="../iei/image/ali.jpg"  height="100" width="100" alt="" class="img-circle">
         <br>
-        <p><center>Ali Waaris Khan(EL)<br />
-          <span class="green">Vice President</span></center></p>
+        <p>Ali Waaris Khan(EL)<br />
+          <span class="green">Vice President</span></p>
         </div>
         <div class="col-md-3 mid" style="border-right:1px solid #eee">
-          <center><img src="../iei/image/utkarshikha.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+          <img src="../iei/image/utkarshikha.jpg"  height="100" width="100" alt="" class="img-circle">
           <br>
-          <p><center>Utkarshika Chandra(ME)<br />
-            <span class="green">Vice President</span></center></p>
+          <p>Utkarshika Chandra(ME)<br />
+            <span class="green">Vice President</span></p>
           </div>
         </div><br>
 
@@ -266,54 +266,54 @@
 
         <div class="row">
           <div class="col-md-3 mid" style="border-right:1px solid #eee">
-            <center><img src="../iei/image/vishakha.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+            <img src="../iei/image/vishakha.jpg"  height="100" width="100" alt="" class="img-circle">
             <br>
-            <p><center>Vishakha Tomar(EL)<br />
-              <span class="green">Chief Executive</span></center></p>
+            <p>Vishakha Tomar(EL)<br />
+              <span class="green">Chief Executive</span></p>
             </div>
             <div class="col-md-3 mid" style="border-right:1px solid #eee">
-              <center><img src="../iei/image/saumya.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+              <img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
               <br>
-              <p><center>Saumya Singh(CE)<br />
-                <span class="green">Chief Executive</span></center></p>
+              <p>Saumya Singh(CE)<br />
+                <span class="green">Chief Executive</span></p>
               </div>
               <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                <center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                 <img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
                 <br>
-                <p><center>Gargi Joshi(ME)<br />
-                  <span class="green">Chief Executive</span></center></p>
+                <p> Gargi Joshi(ME)<br />
+                  <span class="green">Chief Executive</span> </p>
                 </div>
                 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                  <center><img src="../iei/image/akan.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                   <img src="../iei/image/akan.jpg"  height="100" width="100" alt="" class="img-circle">
                   <br>
-                  <p><center>Akanksha Raghuvanshi(EE)<br />
-                    <span class="green">Chief Executive</span></center></p>
+                  <p> Akanksha Raghuvanshi(EE)<br />
+                    <span class="green">Chief Executive</span> </p>
                   </div>
                 </div>
                 <div class="row">
   <!--<div class="col-md-3" style="border-right:1px solid #eee">
-  <center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+   <img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
   <br>
-  <p><center>Mayank Pathak(CS)<br />
+  <p> Mayank Pathak(CS)<br />
   <span class="green">Chief Executive</span></p>
 </div>-->
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-  <center><img src="../iei/image/swastick.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+   <img src="../iei/image/swastick.jpg"  height="100" width="100" alt="" class="img-circle">
   <br>
-  <p><center>Swastick Mishra(IT)<br />
-    <span class="green">Chief Executive</span></center></p>
+  <p> Swastick Mishra(IT)<br />
+    <span class="green">Chief Executive</span> </p>
   </div>
   <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <center><img src="../iei/image/shashwat.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+     <img src="../iei/image/shashwat.jpg"  height="100" width="100" alt="" class="img-circle">
     <br>
-    <p><center>Shashwat Mishra(CS)<br />
-      <span class="green">Chief Executive</span></center></p>
+    <p> Shashwat Mishra(CS)<br />
+      <span class="green">Chief Executive</span> </p>
     </div>
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-      <center><img src="../iei/image/malhaar.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+       <img src="../iei/image/malhaar.jpg"  height="100" width="100" alt="" class="img-circle">
       <br>
-      <p><center>Malhaar Srivastava(EL)<br />
-        <span class="green">Chief Executive</span></center></p>
+      <p> Malhaar Srivastava(EL)<br />
+        <span class="green">Chief Executive</span> </p>
       </div>
     </div>
     <br>
@@ -323,115 +323,115 @@
 
     <div class="row">
       <div class="col-md-12">
-       <center><p class="title2">Third Year Team Members</p></center></div>
+        <p class="title2">Third Year Team Members</p> </div>
      </div>
      <br>
      <div class="row">
       <div class="col-md-3 mid" style="border-right:1px solid #eee">
-        <center><img src="../iei/image/harsh shukla.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+         <img src="../iei/image/harsh shukla.jpg"  height="100" width="100" alt="" class="img-circle">
         <br>
-        <p><center>Harsh Shukla(CE)<br />
-          <span class="green">Joint Secretary<span></center></p>
+        <p> Harsh Shukla(CE)<br />
+          <span class="green">Joint Secretary<span> </p>
           </div>
           <div class="col-md-3 mid" style="border-right:1px solid #eee">
-            <center><img src="../iei/image/anjali.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+             <img src="../iei/image/anjali.jpg"  height="100" width="100" alt="" class="img-circle">
             <br>
-            <p><center>Anjali Patel(EE)<br />
-              <span class="green">Joint SEcretary</span></center></p>
+            <p> Anjali Patel(EE)<br />
+              <span class="green">Joint SEcretary</span> </p>
             </div>
             <div class="col-md-3 mid" style="border-right:1px solid #eee">
-              <center><img src="../iei/image/rajat.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+               <img src="../iei/image/rajat.jpg"  height="100" width="100" alt="" class="img-circle">
               <br>
-              <p><center>Rajat Chauhan(CS)<br />
-                <span class="green">Boys Co-ordinator</span></center></p>
+              <p> Rajat Chauhan(CS)<br />
+                <span class="green">Boys Co-ordinator</span> </p>
               </div>
               <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                <center><img src="../iei/image/priyal mishra.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                 <img src="../iei/image/priyal mishra.jpg"  height="100" width="100" alt="" class="img-circle">
                 <br>
-                <p><center>Priyal Mishra(CS)<br />
-                  <span class="green">Girls Co-ordinator</span></center></p>
+                <p> Priyal Mishra(CS)<br />
+                  <span class="green">Girls Co-ordinator</span> </p>
                 </div>
               </div>
               <br>
-               <!-- row 2 -->
+              <!-- row 2 -->
               <div class="row">
                 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                  <center><img src="../iei/image/saumyad.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                   <img src="../iei/image/saumyad.jpg"  height="100" width="100" alt="" class="img-circle">
                   <br>
-                  <p><center>Soumya Dubey(EL)<br />
-                    <span class="green">Senior Executive<span></center></p>
+                  <p> Soumya Dubey(EL)<br />
+                    <span class="green">Senior Executive<span> </p>
                     </div>
                     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                      <center><img src="../iei/image/madhav.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                       <img src="../iei/image/madhav.jpg"  height="100" width="100" alt="" class="img-circle">
                       <br>
-                      <p><center>Madhav Gopal Sharma(CS)<br />
-                        <span class="green">Senior Executive</span></center></p>
+                      <p> Madhav Gopal Sharma(CS)<br />
+                        <span class="green">Senior Executive</span> </p>
                       </div>
                       <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                        <center><img src="../iei/image/aanchal.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                         <img src="../iei/image/aanchal.jpg"  height="100" width="100" alt="" class="img-circle">
                         <br>
-                        <p><center>Aanchal Dev Singh(ME)<br />
-                          <span class="green">Senior Executive</span></center></p>
+                        <p> Aanchal Dev Singh(ME)<br />
+                          <span class="green">Senior Executive</span> </p>
                         </div>
                         <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                          <center><img src="../iei/image/priyanka.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                           <img src="../iei/image/priyanka.jpg"  height="100" width="100" alt="" class="img-circle">
                           <br>
-                          <p><center>Priyanka Kumari(ME)<br />
-                            <span class="green">Senior Executive</span></center></p>
+                          <p> Priyanka Kumari(ME)<br />
+                            <span class="green">Senior Executive</span> </p>
                           </div>
                         </div>
                         <br>
                         <!-- row 3 -->
                         <div class="row">
                           <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                            <center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                             <img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
                             <br>
-                            <p><center>Rashmi Gupta(MCA)<br />
-                              <span class="green">Senior Executive<span></center></p>
+                            <p> Rashmi Gupta(MCA)<br />
+                              <span class="green">Senior Executive<span> </p>
                               </div>
                               <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                <center><img src="../iei/image/sakshi.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                 <img src="../iei/image/sakshi.jpg"  height="100" width="100" alt="" class="img-circle">
                                 <br>
-                                <p><center>Sakshi Agarwal(EL)<br />
-                                  <span class="green">Senior Executive</span></center></p>
+                                <p> Sakshi Agarwal(EL)<br />
+                                  <span class="green">Senior Executive</span> </p>
                                 </div>
                                 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                  <center><img src="../iei/image/ayush arela.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                   <img src="../iei/image/ayush arela.jpg"  height="100" width="100" alt="" class="img-circle">
                                   <br>
-                                  <p><center>Aayush Arela(EL)<br />
-                                    <span class="green">Senior Executive</span></center></p>
+                                  <p> Aayush Arela(EL)<br />
+                                    <span class="green">Senior Executive</span> </p>
                                   </div>
                                   <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                    <center><img src="../iei/image/shubham.jpg"  height="100" width="100" alt=" " class="img-circle"></center>
+                                     <img src="../iei/image/shubham.jpg"  height="100" width="100" alt=" " class="img-circle">
                                     <br>
-                                    <p><center>Shubham Srivastava(CE)<br />
-                                      <span class="green">Senior Executive</span></center></p>
+                                    <p> Shubham Srivastava(CE)<br />
+                                      <span class="green">Senior Executive</span> </p>
                                     </div>
                                   </div>
                                   <div class="row">
                                     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                      <center><img src="../iei/image/adarsh anand.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                       <img src="../iei/image/adarsh anand.jpg"  height="100" width="100" alt="" class="img-circle">
                                       <br>
-                                      <p><center>Adarsh Anand(CS)<br />
-                                        <span class="green">Senior Executive</span></center></p>
+                                      <p> Adarsh Anand(CS)<br />
+                                        <span class="green">Senior Executive</span> </p>
                                       </div>
                                       <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                        <center><img src="../iei/image/shashank.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                         <img src="../iei/image/shashank.jpg"  height="100" width="100" alt="" class="img-circle">
                                         <br>
-                                        <p><center>Shashank Singhal(EL)<br />
-                                          <span class="green">Senior Executive</span></center></p>
+                                        <p> Shashank Singhal(EL)<br />
+                                          <span class="green">Senior Executive</span> </p>
                                         </div>
                                         <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                          <center><img src="../iei/image/neelesh.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                           <img src="../iei/image/neelesh.jpg"  height="100" width="100" alt="" class="img-circle">
                                           <br>
-                                          <p><center>Neelesh Kumar Nirmal(CE)<br />
-                                            <span class="green">Senior Executive</span></center></p>
+                                          <p> Neelesh Kumar Nirmal(CE)<br />
+                                            <span class="green">Senior Executive</span> </p>
                                           </div>
                                           <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                            <center><img src="../iei/image/vishal.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                             <img src="../iei/image/vishal.jpg"  height="100" width="100" alt="" class="img-circle">
                                             <br>
-                                            <p><center>Vishal Kumar Rana(EE)<br />
-                                              <span class="green">Senior Executive</span></center></p>
+                                            <p> Vishal Kumar Rana(EE)<br />
+                                              <span class="green">Senior Executive</span> </p>
                                             </div>
                                           </div><br><br>
 
@@ -439,110 +439,110 @@
 
                                           <div class="row">
                                             <div class="col-md-12">
-                                             <center><p class="title2">Second Year Team Members</p></center>
+                                              <p class="title2">Second Year Team Members</p>
                                            </div>
                                          </div>
                                          <br>
                                          <!-- row 1 -->
                                          <div class="row">
                                           <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                            <center><img src="../iei/image/anuradha.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                             <img src="../iei/image/anuradha.jpg"  height="100" width="100" alt="" class="img-circle">
                                             <br>
-                                            <p><center>Anuradha Raj(IT)<br />
-                                              <span class="green">Executive<span></center></p>
+                                            <p> Anuradha Raj(IT)<br />
+                                              <span class="green">Executive<span> </p>
                                               </div>
                                               <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                                <center><img src="../iei/image/priyankay.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                                 <img src="../iei/image/priyankay.jpg"  height="100" width="100" alt="" class="img-circle">
                                                 <br>
-                                                <p><center>Priyanka Yadav(IT)<br />
-                                                  <span class="green">Executive</span></center></p>
+                                                <p> Priyanka Yadav(IT)<br />
+                                                  <span class="green">Executive</span> </p>
                                                 </div>
                                                 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                                  <center><img src="../iei/image/shivesh.jpg"  height="100" width="100" alt=" " class="img-circle"></center>
+                                                   <img src="../iei/image/shivesh.jpg"  height="100" width="100" alt=" " class="img-circle">
                                                   <br>
-                                                  <p><center> Shivesh Kumar Rai(CS)<br />
-                                                    <span class="green">Executive</span></center></p>
+                                                  <p>  Shivesh Kumar Rai(CS)<br />
+                                                    <span class="green">Executive</span> </p>
                                                   </div>
                                                   <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                                    <center><img src="../iei/image/sambhavi.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                                     <img src="../iei/image/sambhavi.jpg"  height="100" width="100" alt="" class="img-circle">
                                                     <br>
-                                                    <p><center>Sambhavi Pandey(EE)<br />
-                                                      <span class="green">Executive</span></center></p>
+                                                    <p> Sambhavi Pandey(EE)<br />
+                                                      <span class="green">Executive</span> </p>
                                                     </div>
                                                   </div>
                                                   <br>
                                                   <!-- row 2 -->
                                                   <div class="row">
                                                     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                                      <center><img src="../iei/image/nikita.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                                       <img src="../iei/image/nikita.jpg"  height="100" width="100" alt="" class="img-circle">
                                                       <br>
-                                                      <p><center>Nikita Sharma(EE)<br />
-                                                        <span class="green">Executive<span></center></p>
+                                                      <p> Nikita Sharma(EE)<br />
+                                                        <span class="green">Executive<span> </p>
                                                         </div>
                                                         <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                                          <center><img src="../iei/image/utkarsh gupta.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                                           <img src="../iei/image/utkarsh gupta.jpg"  height="100" width="100" alt="" class="img-circle">
                                                           <br>
-                                                          <p><center>Utkarsh Gupta(CE)<br />
-                                                            <span class="green">Executive</span></center></p>
+                                                          <p> Utkarsh Gupta(CE)<br />
+                                                            <span class="green">Executive</span> </p>
                                                           </div>
                                                           <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                                            <center><img src="../iei/image/apoorva.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                                             <img src="../iei/image/apoorva.jpg"  height="100" width="100" alt="" class="img-circle">
                                                             <br>
-                                                            <p><center>Apoorva Swaroop(EL)<br />
-                                                              <span class="green">Executive</span></center></p>
+                                                            <p> Apoorva Swaroop(EL)<br />
+                                                              <span class="green">Executive</span> </p>
                                                             </div>
                                                             <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                                              <center><img src="../iei/image/rishabh.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                                               <img src="../iei/image/rishabh.jpg"  height="100" width="100" alt="" class="img-circle">
                                                               <br>
-                                                              <p><center>Rishabh Gupta(EE)<br />
-                                                                <span class="green">Executive</span></center></p>
+                                                              <p> Rishabh Gupta(EE)<br />
+                                                                <span class="green">Executive</span> </p>
                                                               </div>
                                                             </div><br>
                                                             <!-- ROW 3 -->
                                                             <div class="row">
                                                               <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                                                <center><img src="../iei/image/raghav.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                                                 <img src="../iei/image/raghav.jpg"  height="100" width="100" alt="" class="img-circle">
                                                                 <br>
-                                                                <p><center>Raghav Agarwal(CS)<br />
-                                                                  <span class="green">Executive<span></center></p>
+                                                                <p> Raghav Agarwal(CS)<br />
+                                                                  <span class="green">Executive<span> </p>
                                                                   </div>
                                                                   <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                                                    <center><img src="../iei/image/arpit bajpai.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                                                     <img src="../iei/image/arpit bajpai.jpg"  height="100" width="100" alt="" class="img-circle">
                                                                     <br>
-                                                                    <p><center>Arpit Bajpai(IT)<br />
-                                                                      <span class="green">Executive</span></center></p>
+                                                                    <p> Arpit Bajpai(IT)<br />
+                                                                      <span class="green">Executive</span> </p>
                                                                     </div>
                                                                     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                                                      <center><img src="../iei/image/shivendra.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                                                       <img src="../iei/image/shivendra.jpg"  height="100" width="100" alt="" class="img-circle">
                                                                       <br>
-                                                                      <p><center>Shivendra Yadav(IT)<br />
-                                                                        <span class="green">Executive</span></center></p>
+                                                                      <p> Shivendra Yadav(IT)<br />
+                                                                        <span class="green">Executive</span> </p>
                                                                       </div>
                                                                       <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                                                        <center><img src="../iei/image/shikha.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                                                         <img src="../iei/image/shikha.jpg"  height="100" width="100" alt="" class="img-circle">
                                                                         <br>
-                                                                        <p><center>Shikha Srivastava(MCA)<br />
-                                                                          <span class="green">Executive</span></center></p>
+                                                                        <p> Shikha Srivastava(MCA)<br />
+                                                                          <span class="green">Executive</span> </p>
                                                                         </div>
                                                                         <br>
                                                                         <!-- row 4 -->
                                                                         <div class="row">
                                                                           <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                                                            <center><img src="../iei/image/utkarsh bhatt.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                                                             <img src="../iei/image/utkarsh bhatt.jpg"  height="100" width="100" alt="" class="img-circle">
                                                                             <br>
-                                                                            <p><center>Utkarsh Bhatt(EL)<br />
-                                                                              <span class="green">Executive<span></center></p>
+                                                                            <p> Utkarsh Bhatt(EL)<br />
+                                                                              <span class="green">Executive<span> </p>
                                                                               </div>
                                                                               <div class="row">
                                                                                 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-                                                                                  <center><img src="../iei/image/anoop tiwari.jpg"  height="100" width="100" alt="" class="img-circle"></center>
+                                                                                   <img src="../iei/image/anoop tiwari.jpg"  height="100" width="100" alt="" class="img-circle">
                                                                                   <br>
-                                                                                  <p><center>Anoop Tiwari(EE)<br />
-                                                                                    <span class="green">Executive<span></center></p>
+                                                                                  <p> Anoop Tiwari(EE)<br />
+                                                                                    <span class="green">Executive<span> </p>
                                                                                     </div>
                                                                                   </div>
                                                                                 </div>
-                                                                              </div>
+                                                                              </center></div>
                                                                             </div>
                                                                             <!--panel end-->
                                                                           </div>
