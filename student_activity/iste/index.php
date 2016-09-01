@@ -75,13 +75,14 @@
 </div>
     <!-- column end-->
 <div class="col-md-6">
+    <center>
     <div class="panel-body">
     <div class="panel panel-default">
     <ul class="nav nav-tabs" role="tablist" id="myTab">
       <!-- <li class="active"><a href="#about" role="tab" data-toggle="tab">About</a></li> -->
      <!-- <li><a href="#activity" role="tab" data-toggle="tab">News</a></li> -->
       </ul>
-     <center><p class="title2"><span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span>&nbsp;&nbsp;ISTE</p></center>
+      <p class="title2"><span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span>&nbsp;&nbsp;ISTE</p>
      <hr>
  </div>
       <div id="about" style="margin-left:30px; margin-right:30px;"><p>
@@ -90,7 +91,7 @@
     </p>
     <div class="row">
     <div class="col-md-12">
-     <center><p class="title2">Administration</p></center>
+      <p class="title2">Administration</p>
  </div>
 </div>
     <div class="row">
@@ -98,16 +99,16 @@
     <div class="col-md-3 mid">
     <a href="http://www.raghuraj.info/"><img src="http://drishticone.org/image/aboutus/rj.jpg" height="110" width="110" alt="Prof. Raghuraj Singh" class="img-circle"></a>
     <br>
-    <a href="http://www.raghuraj.info/"><p><center>Prof. Raghuraj Singh<br /></a>
-    <span class="green">Patron</span></center></p>
+    <a href="http://www.raghuraj.info/"><p> Prof. Raghuraj Singh<br /></a>
+    <span class="green">Patron</span> </p>
     </div>
     <div class="col-md-2 mid">
     </div>
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
     <img src="../iste/image/Ajay.jpg"  height="110" width="110" alt="Prof. Ajay Shekhar Pandey" class="img-circle">
     <br>
-    <p><center>Prof. Ajay Shekhar Pandey<br />
-    <span class="green">Convener</span></center></p>
+    <p> Prof. Ajay Shekhar Pandey<br />
+    <span class="green">Convener</span> </p>
     </div>
     <div class="col-md-2 mid">
     </div>
@@ -119,14 +120,14 @@
 
     <div class="row">
     <div class="col-md-12">
-     <center>
-        <p class="title2">Final Year Team Members</p></center>
+
+        <p class="title2">Final Year Team Members</p>
  </div>
 </div>
 <br>
     <!-- Final year Team Members -->
     <div class="row">
-        <center>
+
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
     <img src="../iste/image/pranav goel.jpg"  height="100" width="100" alt="Pranav Goel" class="img-circle">
     <br>
@@ -178,7 +179,7 @@
     </div>
     <div class="row">
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
-    <center><img src="../iste/image/gaurav.jpg"  height="100" width="100" alt="Gaurav Srivastav" class="img-circle">
+     <img src="../iste/image/gaurav.jpg"  height="100" width="100" alt="Gaurav Srivastav" class="img-circle">
     <br>
     <p>Gaurav Srivastav<br />
     <span class="green">Chief Executive</span></p>
@@ -191,7 +192,7 @@
 
     <div class="row">
     <div class="col-md-12">
-     <center><p class="title2">Second Year Team Members</p>
+      <p class="title2">Third Year Team Members</p>
  </div>
 </div>
 <br>
@@ -206,7 +207,7 @@
     <img src="../iste/image/soumya.jpg"  height="100" width="100" alt="Roli Verma " class="img-circle">
     <br>
     <p>Soumya Dubey<br />
-    <span class="green">Joint Secretary</span></center></p>
+    <span class="green">Joint Secretary</span> </p>
     </div>
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
     <img src="../iste/image/ayush.jpg"  height="100" width="100" alt="Ayush Arela" class="img-circle">
@@ -226,7 +227,7 @@
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
     <img src="../iste/image/anshul.jpg"  height="100" width="100" alt="Anshul Varshney" class="img-circle">
     <br>
-    <p><center>Anshul Varshney<br />
+    <p> Anshul Varshney<br />
     <span class="green">Boys Co-ordinator</span></p>
     </div>
     <div class="col-md-3 mid" style="border-right:1px solid #eee">
@@ -239,7 +240,7 @@
     <img src="../iste/image/anuja.jpg"  height="100" width="100" alt="Sneha Bharti" class="img-circle">
     <br>
     <p>Anuja Gupta<br />
-    <span class="green">Senior Executive</span></center></p>
+    <span class="green">Senior Executive</span> </p>
     </div>
     <br>
      <div class="col-md-3 mid" style="border-right:1px solid #eee">
@@ -411,9 +412,10 @@
     <span class="green">Executive</span></p>
     </div>
     </div>
-    </div></center>
+    </div>
 </div>
 </div>
+</center>
 </div>
     <!--panel end-->
     <!--------------------------------------------------------------------------------------------------------------------------- -->
