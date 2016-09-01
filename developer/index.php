@@ -180,7 +180,8 @@ $(function() {
 </div>
 
 
-
+<div class="row">
+<div class="col-md-4 col-md-offset-4"><hr></div></div>
  <center><p class="title2">Second Year Team</p></center>
 
 
@@ -212,7 +213,7 @@ $(function() {
 <div class="col-md-3 mid">
 <img src="http://drishticone.org/developer/photo/vivek.jpg"  height="140" width="140" alt="vivek kr. singh" class="img-circle">
 <br>
-<p>vivek kr. singh<br />
+<p>Vivek kr. singh<br />
 <span class="green">Developer</span></p>
 </div>
 
@@ -245,7 +246,7 @@ $(function() {
 
 
 
-</div></div></div></div></div>
+</div></div></div></div></div></div>
 
 <?php
 include '../footer.php';
