@@ -409,7 +409,13 @@
   <div class="col-md-3 mid" style="border-right:1px solid #eee">
   <center><img src="../iei/image/neelesh.jpg"  height="100" width="100" alt="" class="img-circle">
   <br>
-  <p><center>Neelesh Kumar Nirmal<br />
+  <p><center>Neelesh Kumar Nirmal(CE)<br />
+  <span class="green">Senior Executive</span></p>
+  </div>
+  <div class="col-md-3 mid" style="border-right:1px solid #eee">
+  <center><img src="../iei/image/vishal.jpg"  height="100" width="100" alt="" class="img-circle">
+  <br>
+  <p><center>Vishal Kumar Rana(EE)<br />
   <span class="green">Senior Executive</span></p>
   </div>
   </div><br><br>
@@ -509,6 +515,13 @@
   <center><img src="../iei/image/utkarsh bhatt.jpg"  height="100" width="100" alt="" class="img-circle">
   <br>
   <p><center>Utkarsh Bhatt(EL)<br />
+    <span class="green">Executive<span></p>
+  </div>
+  <div class="row">
+  <div class="col-md-3 mid" style="border-right:1px solid #eee">
+  <center><img src="../iei/image/anoop tiwari.jpg"  height="100" width="100" alt="" class="img-circle">
+  <br>
+  <p><center>Anoop Tiwari(EE)<br />
     <span class="green">Executive<span></p>
   </div>
   </div>
