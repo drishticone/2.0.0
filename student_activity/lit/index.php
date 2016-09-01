@@ -78,6 +78,8 @@ $(function() {
   <div id="about"><p>
 Literature, a journey that inscribed in pages and powered by the imagination of the writers, ultimately opens the gate to touch the hearts of readers. So, to make your words alive more than ever before we welcome you to our own literary council. It runs under the guidance of honourable Prof. Pradeep Raj Sagar. This council aims at encouraging and enhancing the vocational and writing skill of the students to the level where they can touch the horizon of inﬂuential writer and expert speaker. This council comprised of knowledgeable and enthusiastic members who welcomes the debut authors and veteran writers with open arms .So comrades, come and participate in varied literary events.</br>
 </br>
+
+
  <b>Convener- Prof. Pradeep Kumar, Applied Sciences and Management.</b>
 </p>
 
