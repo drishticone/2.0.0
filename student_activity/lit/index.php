@@ -51,13 +51,14 @@ $(function() {
 </div>
 <!-- column end-->
 <div class="col-md-9">
+  <center>
 <div class="panel-body">
 <div class="panel panel-default">
 <ul class="nav nav-tabs" role="tablist" id="myTab">
 <!--<li class="active"><a href="#about" role="tab" data-toggle="tab">About</a></li>-->
 <!-- <li><a href="#activity" role="tab" data-toggle="tab">News</a></li> -->
 </ul>
-<center><p class="title2"><span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span>&nbsp;&nbsp;Literary Council</p></center>
+ <p class="title2"><span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span>&nbsp;&nbsp;Literary Council</p>
 <hr>
 <div id="about"><p>
 Literature, a journey that inscribed in pages and powered by the imagination of the writers, ultimately opens the gate to touch the hearts of readers. So, to make your words alive more than ever before we welcome you to our own literary council. It runs under the guidance of honourable Prof. Pradeep Raj Sagar. This council aims at encouraging and enhancing the vocational and writing skill of the students to the level where they can touch the horizon of inﬂuential writer and expert speaker. This council comprised of knowledgeable and enthusiastic members who welcomes the debut authors and veteran writers with open arms .So comrades, come and participate in varied literary events.</br>
@@ -67,19 +68,19 @@ Literature, a journey that inscribed in pages and powered by the imagination of 
 <!-- Admin -->
 <div class="row">
 <div class="col-md-12">
- <center><p class="title2">Administration</p></center></div></div><br>
+  <p class="title2">Administration</p> </div></div><br>
 <div class="row">
 <div class="col-md-2 mid"></div>
 <div class="col-md-4 mid">
-<center><a href="http://www.raghuraj.info/"><img src="http://drishticone.org/image/aboutus/rj.jpg" height="110" width="110" alt="Prof. Raghuraj Singh" class="img-circle"></a>
+ <a href="http://www.raghuraj.info/"><img src="http://drishticone.org/image/aboutus/rj.jpg" height="110" width="110" alt="Prof. Raghuraj Singh" class="img-circle"></a>
 <br>
-<a href="http://www.raghuraj.info/"><p><center>Prof. Raghuraj Singh<br /></a>
+<a href="http://www.raghuraj.info/"><p> Prof. Raghuraj Singh<br /></a>
 <span class="green">Patron</span></p>
 </div>
 <div class="col-md-4 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/pradeep.jpg"  height="110" width="110" alt="Prof. Pradeep Kumar" class="img-circle">
+ <img src="../lit/image/pradeep.jpg"  height="110" width="110" alt="Prof. Pradeep Kumar" class="img-circle">
 <br>
-<p><center>Prof. Pradeep Kumar<br />
+<p> Prof. Pradeep Kumar<br />
 <span class="green">Convener</span></p>
 </div>
 <div class="col-md-2 mid"></div>
@@ -87,30 +88,30 @@ Literature, a journey that inscribed in pages and powered by the imagination of 
 <!-- Team Members -->
 <div class="row">
 <div class="col-md-12">
- <center><p class="title2">Final Year Team Members</p></center></div></div><br>
+  <p class="title2">Final Year Team Members</p> </div></div><br>
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/malhaar.jpg"  height="100" width="100" alt=" " class="img-circle">
+ <img src="../lit/image/malhaar.jpg"  height="100" width="100" alt=" " class="img-circle">
 <br>
-<p><center>Malhaar Srivastava<br />
+<p> Malhaar Srivastava<br />
 <span class="green">Secretary</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/sushmita.jpg"  height="100" width="100" alt=" " class="img-circle">
+ <img src="../lit/image/sushmita.jpg"  height="100" width="100" alt=" " class="img-circle">
 <br>
-<p><center>Sushmita Singh<br />
+<p> Sushmita Singh<br />
 <span class="green">Secretary</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/akan.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/akan.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Akanksha Raghuvansi<br />
+<p> Akanksha Raghuvansi<br />
 <span class="green">Chief executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/ali.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/ali.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Ali Waris Khan<br />
+<p> Ali Waris Khan<br />
 <span class="green">Chief executive</span></p>
 </div>
 </div>
@@ -118,27 +119,27 @@ Literature, a journey that inscribed in pages and powered by the imagination of 
 <!-- row 2 -->
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/archit.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/archit.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Archit Singh<br />
+<p> Archit Singh<br />
 <span class="green">Chief executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/komal.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/komal.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Komal Prasad<br />
+<p> Komal Prasad<br />
 <span class="green">Chief executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/pooja.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/pooja.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Pooja Yadav<br />
+<p> Pooja Yadav<br />
 <span class="green">Chief executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/rahul.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/rahul.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Rahul Tripathi<br />
+<p> Rahul Tripathi<br />
 <span class="green">Chief executive</span></p>
 </div>
 </div>
@@ -146,416 +147,426 @@ Literature, a journey that inscribed in pages and powered by the imagination of 
 <!-- row 3 -->
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/sandeep.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/sandeep.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Sandeep Shukla<br />
+<p> Sandeep Shukla<br />
 <span class="green">Chief executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/smir.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/smir.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Smriti Shri<br />
+<p> Smriti Shri<br />
 <span class="green">Chief executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/sunidhi.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/sunidhi.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Sunidhi Raj Singh<br />
+<p> Sunidhi Raj Singh<br />
 <span class="green">Chief executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/tejus.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/tejus.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Tejus Agarwal<br />
+<p> Tejus Agarwal<br />
 <span class="green">Chief executive</span></p>
 </div>
 </div>
 <br>
 <!-- row 4 -->
 <div class="col-md-4 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/uma.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/uma.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Uma Singh<br />
+<p> Uma Singh<br />
 <span class="green">Chief executive</span></p>
 </div>
 <div class="col-md-4 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/vaibhav.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/vaibhav.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Vaibhav Singh<br />
+<p> Vaibhav Singh<br />
 <span class="green">Chief executive</span></p>
 </div>
 <div class="col-md-4 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/ayush.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/ayush.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Ayush<br />
+<p> Ayush<br />
 <span class="green">Chief executive</span></p>
 </div>
-</div><br><br>
+</div>
+<br>
+<br>
 <!-- Third year Team Members -->
 <div class="row">
 <div class="col-md-12">
-<center><p class="title2">Third Year Team Members</p></center></div></div><br>
+ <p class="title2">Third Year Team Members</p> </div></div><br>
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/kamakshi.jpg"  height="100" width="100" alt="Malhaar Srivastava" class="img-circle">
+ <img src="../lit/image/kamakshi.jpg"  height="100" width="100" alt="Malhaar Srivastava" class="img-circle">
 <br>
-<p><center>Kamakshi Awasthi<br />
+<p> Kamakshi Awasthi<br />
 <span class="green">Joint Secretary</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/anurag.jpg"  height="100" width="100" alt="Sushmita Singh" class="img-circle">
+ <img src="../lit/image/anurag.jpg"  height="100" width="100" alt="Sushmita Singh" class="img-circle">
 <br>
-<p><center>Anurag Srivastava<br />
+<p> Anurag Srivastava<br />
 <span class="green">Joint Secretary</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/aanchal.jpg"  height="100" width="100" alt="Sandeep Shukla" class="img-circle">
+ <img src="../lit/image/aanchal.jpg"  height="100" width="100" alt="Sandeep Shukla" class="img-circle">
 <br>
-<p><center>Aanchal Dev Singh<br />
+<p> Aanchal Dev Singh<br />
 <span class="green">Senior Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/anjali.jpg"  height="100" width="100" alt="Vaibhav  Singh" class="img-circle">
+ <img src="../lit/image/anjali.jpg"  height="100" width="100" alt="Vaibhav  Singh" class="img-circle">
 <br>
-<p><center>Anjali Patel<br />
+<p> Anjali Patel<br />
 <span class="green">Senior Executive</span></p>
 </div>
 </div><br>
 <!-- row 2 -->
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/ankita.jpg"  height="100" width="100" alt="Ali Waris Khan" class="img-circle">
+ <img src="../lit/image/ankita.jpg"  height="100" width="100" alt="Ali Waris Khan" class="img-circle">
 <br>
-<p><center>Ankita Singh Chauhan<br />
+<p> Ankita Singh Chauhan<br />
 <span class="green">Senior Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/ayush.jpg"  height="100" width="100" alt="Rahul Tripathi" class="img-circle">
+ <img src="../lit/image/ayush.jpg"  height="100" width="100" alt="Rahul Tripathi" class="img-circle">
 <br>
-<p><center>Ayush Kumar Singh<br />
+<p> Ayush Kumar Singh<br />
 <span class="green">Senior Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/devo.jpg"  height="100" width="100" alt="Mayank Pathak" class="img-circle">
+ <img src="../lit/image/devo.jpg"  height="100" width="100" alt="Mayank Pathak" class="img-circle">
 <br>
-<p><center>Devoshree Mukharjee<br />
+<p> Devoshree Mukharjee<br />
 <span class="green">Senior Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/harsh.jpg"  height="100" width="100" alt="Tejas Agarwal" class="img-circle">
+ <img src="../lit/image/harsh.jpg"  height="100" width="100" alt="Tejas Agarwal" class="img-circle">
 <br>
-<p><center>Harsh Shukla<br />
+<p> Harsh Shukla<br />
 <span class="green">Senior Executive</span></p>
 </div>
 </div><br>
 <!--row 3-->
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/himanshu.jpg"  height="100" width="100" alt="Komal Prasad" class="img-circle">
+ <img src="../lit/image/himanshu.jpg"  height="100" width="100" alt="Komal Prasad" class="img-circle">
 <br>
-<p><center>Himanshu Ranjan<br />
+<p> Himanshu Ranjan<br />
 <span class="green">Senior Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/pari.jpg"  height="100" width="100" alt="Sushmita Singh" class="img-circle">
+ <img src="../lit/image/pari.jpg"  height="100" width="100" alt="Sushmita Singh" class="img-circle">
 <br>
-<p><center>Praneeta B. Sachan<br />
+<p> Praneeta B. Sachan<br />
 <span class="green">Senior Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="Pooja Yadav" class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="Pooja Yadav" class="img-circle">
 <br>
-<p><center>Shailesh<br />
+<p> Shailesh<br />
 <span class="green">Senior Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="Uma Singh" class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="Uma Singh" class="img-circle">
 <br>
-<p><center>Shashank Mishra<br />
+<p> Shashank Mishra<br />
 <span class="green">Senior Executive</span></p>
 </div>
 </div>
 <!--row 4-->
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="Ayush Seth" class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="Ayush Seth" class="img-circle">
 <br>
-<p><center>Shubham Gupta<br />
+<p> Shubham Gupta<br />
 <span class="green">Senior Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/shubham.jpg"  height="100" width="100" alt="Ayush Seth" class="img-circle">
+ <img src="../lit/image/shubham.jpg"  height="100" width="100" alt="Ayush Seth" class="img-circle">
 <br>
-<p><center>Shubham Saxena<br />
+<p> Shubham Saxena<br />
 <span class="green">Senior Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/tushar.jpg"  height="100" width="100" alt="Ayush Seth" class="img-circle">
+ <img src="../lit/image/tushar.jpg"  height="100" width="100" alt="Ayush Seth" class="img-circle">
 <br>
-<p><center>Tushar Bansal<br />
+<p> Tushar Bansal<br />
 <span class="green">Senior Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/vagesh.jpg"  height="100" width="100" alt="Ayush Seth" class="img-circle">
+ <img src="../lit/image/vagesh.jpg"  height="100" width="100" alt="Ayush Seth" class="img-circle">
 <br>
-<p><center>Vageesh Mishra<br />
+<p> Vageesh Mishra<br />
 <span class="green">Senior Executive</span></p>
 </div>
 </div>
 <!--row 5-->
 <div class="row">
 <div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../lit/image/vipul.jpg"  height="100" width="100" alt="Ayush Seth" class="img-circle">
+ <img src="../lit/image/vipul.jpg"  height="100" width="100" alt="Ayush Seth" class="img-circle">
 <br>
-<p><center>Vipul Kapoor<br />
+<p> Vipul Kapoor<br />
 <span class="green">Senior Executive</span></p>
 </div>
 </div><br><br>
 <!-- Second Year Team Member -->
 <div class="row">
 <div class="col-md-12">
-<center><p class="title2">Second Year Team Members</p></center></div></div><br>
+ <p class="title2">Second Year Team Members</p> </div></div><br>
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/anjali2.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/anjali2.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Anjali Mishra<br />
+<p> Anjali Mishra<br />
 <span class="green">Executive<span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/anushka.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/anushka.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Anushka Agrawal<br />
+<p> Anushka Agrawal<br />
 <span class="green">Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/apoorva.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/apoorva.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Apoorva Swaroop<br />
+<p> Apoorva Swaroop<br />
 <span class="green">Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/harshitm.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/harshitm.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Harshit Mittal<br />
+<p> Harshit Mittal<br />
 <span class="green">Executive</span></p>
 </div>
 </div><br>
 <!-- row 2 -->
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/harshit.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/harshit.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Harshit Agarwal<br />
+<p> Harshit Agarwal<br />
 <span class="green">Executive<span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/nisha.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/nisha.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Nisha Madhav<br />
+<p> Nisha Madhav<br />
 <span class="green">Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/pradeepti.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/pradeepti.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Pradeepti Vishwakarma<br />
+<p> Pradeepti Vishwakarma<br />
 <span class="green">Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/riya.png"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/riya.png"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Riya Singh<br />
+<p> Riya Singh<br />
 <span class="green">Executive</span></p>
 </div>
 </div><br>
 <!-- row 3 -->
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/rummana.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/rummana.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Rummana Tabassum Ansari<br />
+<p> Rummana Tabassum Ansari<br />
 <span class="green">Executive<span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/sambhavi.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/sambhavi.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Sambhavi Pandey<br />
+<p> Sambhavi Pandey<br />
 <span class="green">Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/sandeep2.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/sandeep2.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Sandeep Nigam<br />
+<p> Sandeep Nigam<br />
 <span class="green">Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/shivam.jpg"  height="100" width="100" alt=" " class="img-circle">
+ <img src="../lit/image/shivam.jpg"  height="100" width="100" alt=" " class="img-circle">
 <br>
-<p><center>Shivam Sharma<br />
+<p> Shivam Sharma<br />
 <span class="green">Executive</span></p>
 </div>
 </div>
 <!--row 4-->
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/shivesh.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/shivesh.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Shivesh Rai<br />
+<p> Shivesh Rai<br />
 <span class="green">Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/surya.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/surya.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Surya Prakash<br />
+<p> Surya Prakash<br />
 <span class="green">Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/toshendra.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/toshendra.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Toshendra Kumar Singh<br />
+<p> Toshendra Kumar Singh<br />
 <span class="green">Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/upendra.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/upendra.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Upendra Kumar Singh<br />
+<p> Upendra Kumar Singh<br />
 <span class="green">Executive</span></p>
 </div>
 </div>
 <!--row 5-->
 <div class="row">
 <div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../lit/image/vaibhav2.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/vaibhav2.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center>Vaibhav Gupta<br />
+<p> Vaibhav Gupta<br />
 <span class="green">Executive</span></p>
 </div>
-</div><br><br>
+</div>
+<br>
+<br>
 <!-- First Year Team Member -->
 <!--
 <div class="row">
 <div class="col-md-12">
- <center><p class="title2">First Year Team Members</p></center></div></div><br>
+  <p class="title2">First Year Team Members</p> </div></div><br>
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Executive<span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt=" " class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt=" " class="img-circle">
 <br>
-<p><center> <br />
+<p>  <br />
 <span class="green">Co-Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
-<span class="green">Co-Executive</span></p>
-</div>
-</div><br>
-<div class="row">
-<div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
-<br>
-<p><center><br />
-<span class="green">Co-Executive<span></p>
-</div>
-<div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
-<br>
-<p><center><br />
-<span class="green">Co-Executive</span></p>
-</div>
-<div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
-<br>
-<p><center><br />
-<span class="green">Co-Executive</span></p>
-</div>
-<div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
-<br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 </div><br>
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive<span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 </div><br>
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive<span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
+<span class="green">Co-Executive</span></p>
+</div>
+</div><br>
+<div class="row">
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<br>
+<p> <br />
+<span class="green">Co-Executive<span></p>
+</div>
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<br>
+<p> <br />
+<span class="green">Co-Executive</span></p>
+</div>
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<br>
+<p> <br />
+<span class="green">Co-Executive</span></p>
+</div>
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<br>
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 </div><br>
 <div class="row">
 <div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../lit/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 </div>
 -->
-</div></div></div>
+</div>
+</div>
+</div>
+</center>
 </div>
 <!--panel end-->
-<!----------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------- -->
 </div>
-<!-- column end--></div>
-</div></div><!--container closed-->
+<!-- column end-->
+</div>
+</div>
+</div>
+<!--container closed-->
 <?php
 include '../../footer.php';
 ?>
