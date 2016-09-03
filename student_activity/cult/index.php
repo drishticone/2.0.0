@@ -97,9 +97,9 @@ Do you think you can hit high notes? Do you have that hidden MJ, Madhuri, Shakir
 </div>
 
 <div class="col-md-4 mid" style="border-right:1px solid #eee">
-<center><img src="../cult/image/Ruchin.jpg"  height="110" width="110" alt="Prof. Ruchin Agarwal" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="110" width="110" alt="Prof. Ruchin Agarwal" class="img-circle">
 <br>
-<p><center>Prof. Ruchin Agarwal<br />
+<p><center>Prof. Neelendra Badal<br />
 <span class="green">Convener</span></p> 
 </div>
 <div class="col-md-2 mid"></div>
@@ -109,73 +109,75 @@ Do you think you can hit high notes? Do you have that hidden MJ, Madhuri, Shakir
 
 <div class="row">
 <div class="col-md-12">
- <center><p class="title2">Final Year Team Members</p></center></div></div><br>
+ <center><p class="title2">Final Year Post Holders</p></center></div></div><br>
 
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Nihal Gangwar" class="img-circle">
+<center><img src="../cult/image/mayank.jpg"  height="100" width="100" alt="Nihal Gangwar" class="img-circle">
 <br>
-<p><center>Nihal Gangwar<br />
-<span class="green">Secretary</span></p>
+<p><center>Mayank Upadhyay<br />
+<span class="green">Secretary(boys)</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Jayanti Mishra" class="img-circle">
+<center><img src="../cult/image/deepti.jpg"  height="100" width="100" alt="Jayanti Mishra" class="img-circle">
 <br>
-<p><center>Jayanti Mishra<br />
-<span class="green">Secretary</span></p>
+<p><center>Deepti Sharma<br />
+<span class="green">Secretary(girls)</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/abhishek.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
-<span class="green">Chief executive</span></p>
+<p><center> Abhishek Tiwari<br />
+<span class="green">Co-Ordinator(boys)</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/mansi.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
-<span class="green">Chief executive</span></p>
+<p><center> Mnasi Singhal<br />
+<span class="green">Co-Ordinator(girls)</span></p>
 </div>
+
 </div>
 <br>
 <!-- row 2 -->
 
 <!-- row 3 -->
-
+<!--
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Ritika Rai" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Ritika Rai" class="img-circle">
 <br>
 <p><center>Ritika Rai<br />
 <span class="green">Co-ordinator</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Ambaram Srivastav" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Ambaram Srivastav" class="img-circle">
 <br>
 <p><center>Ambaram Srivastav<br />
 <span class="green">Chief executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Chief executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Chief executive</span></p>
 </div>
 </div><br><br>
+-->
 
 <!-- Third year Team Members -->
 
@@ -186,61 +188,62 @@ Do you think you can hit high notes? Do you have that hidden MJ, Madhuri, Shakir
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Mayank Upadhyay" class="img-circle">
+<center><img src="../cult/image/sagar.jpg"  height="100" width="100" alt="Mayank Upadhyay" class="img-circle">
 <br>
-<p><center>Mayank Upadhyay<br />
-<span class="green">Joint Secretary</span></p>
+<p><center>Sagar Sharma(IT)<br />
+<span class="green">Joint Secretary(boys)</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Vishakha Tomar" class="img-circle">
+<center><img src="../cult/image/jyoti.jpg"  height="100" width="100" alt="Vishakha Tomar" class="img-circle">
 <br>
-<p><center>Vishakha Tomar<br />
-<span class="green">Joint Secretary</span></p>
+<p><center>Jyoti Srivastava(EL)<br />
+<span class="green">Joint Secretary(girls)</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Shikhar Agrawal" class="img-circle">
+<center><img src="../cult/image/mohit.jpg"  height="100" width="100" alt="Shikhar Agrawal" class="img-circle">
 <br>
-<p><center>Shikhar Agrawal<br />
-<span class="green">Sub co-ordinator</span></p>
+<p><center>Mohit Tomar(EL)<br />
+<span class="green">Sub co-ordinator(boys)</span></p>
 </div>
-
+<!--
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Manshi Singhal" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Manshi Singhal" class="img-circle">
 <br>
 <p><center>Manshi Singhal<br />
 <span class="green">Sub Co-ordinator</span></p>
 </div>
+-->
 </div><br>
 
 <!-- row 2 -->
-
+<!--
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Senior Executive</span></p>
@@ -251,15 +254,16 @@ Do you think you can hit high notes? Do you have that hidden MJ, Madhuri, Shakir
 <div class="row">
 
 <div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Senior Executive</span></p>
 </div>
 </div><br><br>
-
+-->
 <!-- Second Year Team Member -->
 
+<!--
 <div class="row">
 <div class="col-md-12">
  <center><p class="title2">Second Year Team Members</p></center></div></div><br>
@@ -267,93 +271,93 @@ Do you think you can hit high notes? Do you have that hidden MJ, Madhuri, Shakir
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Shubham Pratap singh" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Shubham Pratap singh" class="img-circle">
 <br>
 <p><center>Shubham Pratap Singh<br />
 <span class="green">Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Paurush Gupta" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Paurush Gupta" class="img-circle">
 <br>
 <p><center>Paurush Gupta<br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Sagar Sharma" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Sagar Sharma" class="img-circle">
 <br>
 <p><center>Sagar sharma<br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Abhishek Singh" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Abhishek Singh" class="img-circle">
 <br>
 <p><center>Abhishek Singh<br />
 <span class="green">Executive</span></p>
 </div>
 </div><br>
-
+-->
 <!-- row 2 -->
-
+<!--
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Animesh Singh" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Animesh Singh" class="img-circle">
 <br>
 <p><center>Animesh Singh<br />
 <span class="green">Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Vipul Kapoor" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Vipul Kapoor" class="img-circle">
 <br>
 <p><center>Vipul Kapoor<br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Devesh Pandey" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Devesh Pandey" class="img-circle">
 <br>
 <p><center>Devesh Pandey<br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Sarad Shukla" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Sarad Shukla" class="img-circle">
 <br>
 <p><center>Sarad Shukla<br />
 <span class="green">Executive</span></p>
 </div>
 </div><br>
-
+-->
 <!-- row 3 -->
-
+<!--
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Satyam Gupta" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Satyam Gupta" class="img-circle">
 <br>
 <p><center>Satyam Gupta<br />
 <span class="green">Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Rajat" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Rajat" class="img-circle">
 <br>
 <p><center>Rajat<br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Deepak" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Deepak" class="img-circle">
 <br>
 <p><center>Deepak<br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Rishab Jain " class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Rishab Jain " class="img-circle">
 <br>
 <p><center>Rishab Jain<br />
 <span class="green">Executive</span></p>
@@ -363,38 +367,39 @@ Do you think you can hit high notes? Do you have that hidden MJ, Madhuri, Shakir
 <div class="row">
 
 <div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="Swati Gangwar" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="Swati Gangwar" class="img-circle">
 <br>
 <p><center>Swati Gangwar<br />
 <span class="green">Executive</span></p>
 </div>
 </div><br><br>
-
+-->
 <!-- First Year Team Member -->
-
+<!--
 <div class="row">
 <div class="col-md-12">
  <center><p class="title2">First Year Team Members</p></center></div></div><br>
- 
+ -->
 <!-- row 1 -->
+<!--
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Co-Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt=" " class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt=" " class="img-circle">
 <br>
 <p><center> <br />
 <span class="green">Co-Executive</span></p>
@@ -402,105 +407,106 @@ Do you think you can hit high notes? Do you have that hidden MJ, Madhuri, Shakir
 
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Co-Executive</span></p>
 </div>
 </div><br>
+-->
 <!-- row 2 -->
-
+<!--
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Co-Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Co-Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Co-Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Co-Executive</span></p>
 </div>
 </div><br>
-
+-->
 <!-- ROW 3 -->
-
+<!--
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Co-Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Co-Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Co-Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Co-Executive</span></p>
 </div>
 </div><br>
-
+-->
 <!-- row 4 -->
-
+<!--
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Co-Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Co-Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Co-Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Co-Executive</span></p>
@@ -510,7 +516,7 @@ Do you think you can hit high notes? Do you have that hidden MJ, Madhuri, Shakir
 <div class="row">
 
 <div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<center><img src="../cult/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
 <p><center><br />
 <span class="green">Co-Executive</span></p>
@@ -519,7 +525,7 @@ Do you think you can hit high notes? Do you have that hidden MJ, Madhuri, Shakir
  
 
 </div></div></div>
-
+-->
 </div>
 <!--panel end-->
 
