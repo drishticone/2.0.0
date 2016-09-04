@@ -44,14 +44,14 @@ $(function() {
 <div class="col-md-3">
 <div class="panel panel-default">
   <div class="panel-body">
- <center><p class="title2"><span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span>&nbsp;&nbsp;Councils</p></center>
+  <p class="title2"><span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span>&nbsp;&nbsp;Councils</p> 
  </div></div>
 <a href="#">
 <div class="panel panel-default hoverable">
   <div class="panel-body">
   <div class="col-md-5">
   <img src="../sports/image/sports.jpg" width="108" height="108"></div></br></br>
-<center><p class="title2">Sports Council</p></center>
+ <p class="title2">Sports Council</p> 
  </a>
 </div></div>
 
@@ -71,7 +71,7 @@ $(function() {
   <!-- <li><a href="#activity" role="tab" data-toggle="tab">News</a></li> -->
   </ul>
   
- <center><p class="title2"><span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span>&nbsp;&nbsp;Sports Council</p></center>
+  <p class="title2"><span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span>&nbsp;&nbsp;Sports Council</p> 
  <hr>
 
 
@@ -85,21 +85,19 @@ $(function() {
 
 <div class="row">
 <div class="col-md-12">
- <center><p class="title2">Administration</p></center></div></div><br>
-
+  <p class="title2">Administration</p> </div></div><br>
 <div class="row">
 <div class="col-md-2 mid"></div>
 <div class="col-md-4 mid">
-<center><a href="http://www.raghuraj.info/"><img src="http://drishticone.org/image/aboutus/rj.jpg" height="110" width="110" alt="Prof. Raghuraj Singh" class="img-circle"></a>
+ <a href="http://www.raghuraj.info/"><img src="http://drishticone.org/image/aboutus/rj.jpg" height="110" width="110" alt="Prof. Raghuraj Singh" class="img-circle"></a>
 <br>
-<a href="http://www.raghuraj.info/"><p><center>Prof. Raghuraj Singh<br /></a>
+<a href="http://www.raghuraj.info/"><p> Prof. Raghuraj Singh<br /></a>
 <span class="green">Patron</span></p>
 </div>
-
 <div class="col-md-4 mid" style="border-right:1px solid #eee">
-<center><img src="../csi/image/BP Chaurashiya.jpg"  height="110" width="110" alt="Prof. B.P. Chaurasiya" class="img-circle">
+ <img src="../csi/image/BP Chaurashiya.jpg"  height="110" width="110" alt="Prof. B.P. Chaurasiya" class="img-circle">
 <br>
-<p><center>Prof. B.P. Chaurasiya<br />
+<p> Prof. B.P. Chaurasiya<br />
 <span class="green">Convener</span></p> 
 </div>
 <div class="col-md-2 mid"></div>
@@ -109,171 +107,151 @@ $(function() {
 
 <div class="row">
 <div class="col-md-12">
- <center><p class="title2">Final Year Team Members</p></center></div></div><br>
-
+<center>
+  <p class="title2">Team Captains</p> </div></div><br>
 <div class="row">
-
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/isha.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
-<span class="green">Chair person</span></p>
-</div>
-
+<p> Isha Saxena(IT)<br />
+<span class="green">Seceratory</span></p>
+</div
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
-<span class="green">Vice chairperson</span></p>
+<p> Sunil Yadav(IT)<br />
+<span class="green">seceratory</span></p>
 </div>
-
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/asu.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
-<span class="green">Chief executive</span></p>
+<p> Asutosh Singh(EE)<br />
+<span class="green">joint-seceratory</span></p>
 </div>
-
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/aanchal.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
-<span class="green">Chief executive</span></p>
-</div>
+<p> Aanchal Dev Singh(ME)<br />
+<span class="green">joint-seceratory</span></p>
 </div>
 <br>
-<!-- row 2 -->
-
 <div class="row">
-
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/mohana singh.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><br />
-<span class="green">Chief executive</span></p>
+<p> Mohana Singh(CS)<br />
+<span class="green">Basketball</span></p>
 </div>
-
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/pratiima.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><br />
-<span class="green">Chief executive</span></p>
+<p> Pratiima Singh(IT)<br />
+<span class="green">Chess</span></p>
 </div>
-
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/kajal.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><br />
-<span class="green">Chief executive</span></p>
+<p>Kajal katiyar(EL)<br />
+<span class="green">Table Tennis</span></p>
 </div>
-
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/devanshi.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><br />
-<span class="green">Chief executive</span></p>
+<p> Devanshi Shukla(IT)<br />
+<span class="green">Carrom</span></p>
 </div>
 </div>
 <br>
-<!-- row 3 -->
-
 <div class="row">
-
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/shilpa.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
-<span class="green">Chief executive</span></p>
+<p>Shilpa Choowdhary(CS)<br />
+<span class="green">Badmintion</span></p>
 </div>
-
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
-<span class="green">Chief executive</span></p>
+<p>Isha Pandey(ME)<br />
+<span class="green">Volleyball</span></p>
 </div>
-
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/pankaj.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
-<span class="green">Chief executive</span></p>
+<p> Pankaj Gond(CSE)<br />
+<span class="green">Cricket </span></p>
 </div>
-
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/anurag sri.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
-<span class="green">Chief executive</span></p>
+<p> Anurag Srivastava(CE)<br />
+<span class="green">Football</span></p>
 </div>
-</div><br><br>
-
-<!-- Third year Team Members -->
-
+</div><br>
 <div class="row">
-<div class="col-md-12">
- <center><p class="title2">Third Year Team Members</p></center></div></div><br>
-
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
+ <img src="../sports/image/anurag verwa.jpg"  height="100" width="100" alt="" class="img-circle">
+<br>
+<p> Anurag Verma(CSE)<br />
+<span class="green">Carrom</span></p>
+</div>
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
+ <img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+<br>
+<p> Sehwaz Khan(CSE)<br />
+<span class="green">Volleyball</span></p>
+</div>
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
+ <img src="../sports/image/saurabh.jpg"  height="100" width="100" alt="" class="img-circle">
+<br>
+<p> Saurabh Jaiswal<br />
+<span class="green">Table-Tennis</span></p>
+</div>
+<div class="col-md-3 mid" style="border-right:1px solid #eee">
+ <img src="../sports/image/tushant.jpg"  height="100" width="100" alt="" class="img-circle">
+<br>
+<p> Tushant Yadav<br />
+<span class="green">Chess</span></p>
+</div>
+</div><br>
 <div class="row">
-
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/kumar shivam.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
-<span class="green">Secretary</span></p>
-</div>
-
-<div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
-<br>
-<p><center><br />
-<span class="green">Joint Secretary</span></p>
-</div>
-
-<div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
-<br>
-<p><center><br />
-<span class="green">Event co-ordinator</span></p>
-</div>
-
-<div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
-<br>
-<p><center><br />
-<span class="green">Treasurer</span></p>
+<p> Kumar Shivam<br />
+<span class="green">Basket-Ball</span></p>
 </div>
 </div><br>
 
 <!-- row 2 -->
-
+<!--
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Senior Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Senior Executive</span></p>
 </div>
 
@@ -282,111 +260,111 @@ $(function() {
 <div class="row">
 
 <div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Senior Executive</span></p>
 </div>
 </div><br><br>
-
+-->
 <!-- Second Year Team Member -->
-
+<!--
 <div class="row">
 <div class="col-md-12">
- <center><p class="title2">Second Year Team Members</p></center></div></div><br>
+  <p class="title2">Second Year Team Members</p> </div></div><br>
 
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Executive</span></p>
 </div>
 </div><br>
-
+-->
 <!-- row 2 -->
-
+<!--
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Executive</span></p>
 </div>
 </div><br>
-
+-->
 <!-- row 3 -->
-
+<!--
 <div class="row">
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt=" " class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt=" " class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Executive</span></p>
 </div>
 </div>
@@ -394,146 +372,149 @@ $(function() {
 <div class="row">
 
 <div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Executive</span></p>
 </div>
 </div><br><br>
-
+-->
 <!-- First Year Team Member -->
-
+<!--
 <div class="row">
 <div class="col-md-12">
- <center><p class="title2">First Year Team Members</p></center></div></div><br>
- 
+  <p class="title2">First Year Team Members</p> </div></div><br>
+ -->
 <!-- row 1 -->
+<!--
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt=" " class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt=" " class="img-circle">
 <br>
-<p><center> <br />
+<p>  <br />
 <span class="green">Co-Executive</span></p>
 </div>
 
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 </div><br>
+-->
 <!-- row 2 -->
-
+<!--
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 </div><br>
-
+-->
 <!-- ROW 3 -->
-
+<!--
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 </div><br>
+-->
 
 <!-- row 4 -->
-
+<!--
 <div class="row">
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive<span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 
 <div class="col-md-3 mid" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
 </div><br>
@@ -541,30 +522,33 @@ $(function() {
 <div class="row">
 
 <div class="col-md-12" style="border-right:1px solid #eee">
-<center><img src="../iste/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
+ <img src="../sports/image/default.jpg"  height="100" width="100" alt="" class="img-circle">
 <br>
-<p><center><br />
+<p> <br />
 <span class="green">Co-Executive</span></p>
 </div>
-</div>
+</div>-->
  
 
 
-</div></div></div>
-
 </div>
+</div>
+</div>
+</div>
+</center>
 <!--panel end-->
 
 
 
-<!----------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------- -->
 
 
 
 
 
 </div>
-<!-- column end--></div>
+<!-- column end-->
+</div>
 
 
 
