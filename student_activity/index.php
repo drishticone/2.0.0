@@ -109,17 +109,19 @@ $article=$row['article'];
 echo '
 <a href="'.$article.'"><div class="col-md-12">
 <div class="panel panel-default hoverable">
-  <div class="panel-body">
-  <div class="row">
-  <div class="col-md-6  col-sm-12">
-  <div style="height:260px; overflow:hidden; margin:0px; padding:0px;"><img height="260" width="100%"  src="'.$photo.'" img-responsive /></div>
+ <div class="row">
+ <div class="col-md-6  col-sm-12">
+  <div style="height:200px; overflow:hidden; margin:0px; padding:0px;"><img height="100%" width="100%"  src="'.$photo.'" img-responsive /></div>
   </div>
+  <div class="panel-body">
   <div class="col-md-6  col-sm-12">
  <div  id="fitin" >'.$title.'</div>
-<hr />
+ <br><br><br>
+<hr  />
 
 <span style="float:left;color:#1d9d74;">'.$type.'</span>
 <span style="float:right"><a style="float:right" target="_blank" href="https://facebook.com/'.$writer_id.'"><span style="color:#1d9d74;">By&nbsp;:&nbsp;</span>'.$writer_name.'</a></span>
+
 </div></div></div></div>
 
 </div></a>
