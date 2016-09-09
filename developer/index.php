@@ -106,7 +106,7 @@ $(function() {
 <img src="http://drishticone.org/developer/photo/sunny.jpg"  height="140" width="140" alt="Sunny Prakash Tiwari" class="img-circle">
 <br>
 <p>Sunny Prakash Tiwari<br />
-<span class="green">Developer</span></p>
+<span class="green">Web-Development Head</span></p>
 </div>
 
 
@@ -114,7 +114,7 @@ $(function() {
 <img src="http://drishticone.org/developer/photo/chirag.jpg"  height="140" width="140" alt="Chirag Goel" class="img-circle">
 <br>
 <p>Chirag Goel<br />
-<span class="green">Developer</span></p>
+<span class="green">Web-Development Head</span></p>
 </div>
 
 <div class="col-md-3 mid">
